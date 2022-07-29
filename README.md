@@ -1,3 +1,17 @@
+# How to run this Jekyll website locally
+
+1. Clone the project locally. 
+2. Install Ruby and Jekyll (`sudo apt-get install ruby ruby-dev make gcc` and `sudo gem install jekyll bundler`)
+3. Navigate to the parent folder of the project and issue `bundle install`
+4. In the same folder, issue `bundle exec jekyll serve`
+5. Navigate in a browser to `http://127.0.0.1:4000`
+
+Notes: 
+* Upon making a change to the website, the newest version is shown after reloading the page. 
+To enable auto-reloading upon changes, issue `bundle exec jekyll serve -l` in step 4 above.
+* The above instructions are compiled from [advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard).  We are following the "Method 2: Using remote_theme with a Ruby Jekyll site" option._
+___
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
