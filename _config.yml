@@ -17,6 +17,7 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 
 navbar-links:
     NEWS: "/pages/news"
+    PROJECTS-OLD: "/pages/projects-old"
     PROJECTS: "/pages/projects"
     LABS: "/pages/labs"
     OUR MISSION: "/pages/ourmission"
