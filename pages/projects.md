@@ -14,12 +14,12 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div id="shinyapps-big">
-      {% for app in site.data.projects %}
+      {% for project in site.data.projects %}
 	    <div class="shinyapp">
-          <a class="applink" href="{{ app.url }}" target="_blank">
-            <img class="appimg" src="/assets/img/project-screenshots/{{ app.img }}" />
-            <div class="apptitle">{{ app.title }}</div>
-            <div class="appdesc">{{ app.description }}</div>
+          <a class="applink" href="{{ project.url }}" target="_blank">
+            <img class="appimg" src="/assets/img/project-screenshots/{{ project.img }}" alt="" />
+            <div class="apptitle">{{ project.title }}</div>
+            <div class="appdesc">{{ project.description }}</div>
           </a>
         </div>
 	  {% endfor %}
