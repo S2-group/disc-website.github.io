@@ -238,9 +238,9 @@ collections:
   news:
     output: true
     layout: "post"
-#  projects:
-#    output: true
-#    layout: "post"
+  projects:
+    output: true
+    layout: "post"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
