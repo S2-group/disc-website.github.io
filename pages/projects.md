@@ -17,7 +17,7 @@ ext-js:
       {% for project in site.data.projects %}
 	    <div class="shinyapp">
           <a class="applink" href="{{ project.url }}" target="_blank">
-            <img class="appimg" src="{{ site.url }}/assets/img/project-screenshots/{{ project.img }}" alt="" />
+            <img class="appimg" src="/assets/img/project-screenshots/{{ project.img }}" alt="" />
             <div class="apptitle">{{ project.title }}</div>
             <div class="appdesc">{{ project.description }}</div>
           </a>
