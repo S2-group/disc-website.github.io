@@ -6,10 +6,10 @@
   description: We developed an archive of Awesome and Dark Tactics, open for everybody to contribute. With this project we started with tactics for a sustainable cloud.
   img: cloud-tactics.jpg
   url: https://vu.nl/en/about-vu/more-about/seed-money-asi
-- title: Sustainable Cloud3
-  description: Quantifying the sustainability impact of cloud-based software-intensive systems
-  img: demo.png
-  url: https://www.nwo.nl/en/news/seventeen-innovative-research-projects-launched-through-open-competition-domain-science-m-1
+- title: An Archive of Awesome and Dark Tactics (AADT)
+  description: this is an open archive capture reusable digital tactics. It is an initiative of the VU Digital Sustainability Center and the S2 Research Group.
+  img: AADT.png
+  url: https://s2group.cs.vu.nl/AwesomeAndDarkTactics/
 - title: Sustainable Cloud4
   description: Quantifying the sustainability impact of cloud-based software-intensive systems
   img: demo.png
