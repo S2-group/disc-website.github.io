@@ -15,13 +15,13 @@ Department, the second is interdisciplinary in nature.
 
 The VU Campus has a great scientific mass on various digital sustainability research topics. Sustainability is
 central to its strategy. In this context, the DiSC will act as a **center of excellence** between the **Network Institute (NI)** 
-and the **Amsterdam Sustainability Institute (ASI)**. In this way, it helps increase the visibility of our
+and under the umbrella of the **Amsterdam Sustainability Institute (ASI)**. In this way, it helps increase the visibility of our
 research excellence and enables the creation of new strategic synergies that combine scientific excellence,
 relevance for practice, and societal impact, in both private and public sectors.
 
 Strategic synergies under the umbrella of DiSC will concretize in:
-  * **Labs**: a DiSC Lab is a research collaboration between one or multiple industrial, governmental, or
-not-for-profit partner(s) on the one hand and VU researchers on the other hand.
+  * **Labs**: a DiSC Lab is a research collaboration between VU researchers, and one or multiple industrial, governmental, or
+not-for-profit partner(s).
   * **Educational platform**: DiSC will offer its partners the possibility to fund student projects and research
 assignments with high-quality co-supervision. The VU and International educational programs related to
 digitalization and sustainability will attract a diverse and international population of students.
@@ -42,6 +42,7 @@ The main cross-cutting SDGs the DiSC addresses, are:
 
 ## Kickstart challenges
 The DiSC has started with the following challenges:
+
 Sustainability challenges
 * What is sustainability, and what does it mean for me / my organization / my business?
   * Understand how to embed sustainability in creating and evolving cloud-based software- and
