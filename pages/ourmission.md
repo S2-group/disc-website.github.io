@@ -3,7 +3,6 @@ layout: page
 title: Mission
 ---
 
-# In Short
 The purpose of the VU Digital Sustainability Center (DiSC) is **to fuel collaboration on digitalization, digital transformation and the role of software for sustainability.**
 Its mission is to accelerate the creation of knowledge that is **relevant**, **useful** and **actionable** - relevant via
 high-quality research, useful for society, and actionable via the creation of know-hows.
