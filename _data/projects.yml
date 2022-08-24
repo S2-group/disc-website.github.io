@@ -3,11 +3,11 @@
   img: demo.png
   url: https://www.nwo.nl/en/news/seventeen-innovative-research-projects-launched-through-open-competition-domain-science-m-1
 - title: "ASI Seed Money: Sustainable Cloud Software for Built Environments"
-  description: We developed an archive populated with tactics for a sustainable cloud for built environment.
+  description: We developed an archive populated with tactics for a sustainable cloud for the built environment.
   img: cloud-tactics.jpg
   url: https://vu.nl/en/news/2022/asi-seed-money-sustainable-cloud-software-for-built-environments
 - title: An Archive of Awesome and Dark Tactics (AADT)
-  description: this is an archive that captures reusable digital tactics, open for everybody to learn and contribute. It is an initiative of the VU Digital Sustainability Center and the S2 Research Group.
+  description: This is an archive that captures reusable (software and not only) tactics, open for everybody to learn and contribute. It is an initiative of the VU Digital Sustainability Center and the S2 Research Group.
   img: AADT.png
   url: https://s2group.cs.vu.nl/AwesomeAndDarkTactics/
 - title: Towards a common research agenda on the socio-technical aspects of net-zero, sustainable data centers
