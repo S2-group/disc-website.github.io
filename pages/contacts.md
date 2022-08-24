@@ -1,25 +1,7 @@
 ---
 layout: page
 title: DiSC Contacts
-subtitle: Why you'd want to go on a date with me
+subtitle: How to reach out to DiSC
 ---
 
-# Lorem ipsum 
-Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis rhoncus urna neque viverra justo nec ultrices dui. Massa vitae tortor condimentum lacinia quis vel. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Id interdum velit laoreet id donec ultrices. Imperdiet dui accumsan sit amet nulla facilisi. 
-
-## Massa 
-Sapien faucibus et molestie. 
-
-### Suspendisse 
-Sed nisi lacus sed viverra tellus in hac. 
-
-#### Amet 
-Purus gravida quis blandit turpis cursus in hac habitasse. Quam id leo in vitae turpis massa sed elementum. Fermentum 
- * posuere 
- * urna 
-    * nec 
-
-```Tincidunt``` 
-praesent semper. Ultrices eros in cursus turpis. Congue quisque egestas diam in arcu cursus *euismod*.
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The DiSC Head office is your first point of contact for all matters related to DiSC. Drop us an email (see footer of this website) if you want to collaborate, like setting up collaborative labs, or becoming one of our strategic partners to engage in DiSC innovation and initiatives focused on talents. Also, check out our [Mission](https://s2group.cs.vu.nl/disc-website.github.io/pages/ourmission).
