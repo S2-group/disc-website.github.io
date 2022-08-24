@@ -19,12 +19,11 @@ url: https://s2group.cs.vu.nl/disc-website.github.io
 
 navbar-links:
     NEWS: "/pages/news"
-    PROJECTS-OLD: "/pages/projects-old"
+    OUR MISSION: "/pages/ourmission"
     PROJECTS: "/pages/projects"
     LABS: "/pages/labs"
-    OUR MISSION: "/pages/ourmission"
     RESOURCES: "/pages/resources"
-    CONTACTS: "/pages/contacts"
+    CONTACT: "/pages/contacts"
 
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
