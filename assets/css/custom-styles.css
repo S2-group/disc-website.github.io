@@ -1,3 +1,22 @@
 /* .footer-sponsors {
   background-color: blueviolet;
 } */
+
+.container-md {
+    max-width: 1500px;
+}
+
+/* Fitting 3 cards in projects page */
+.offset-xl-2 {
+    margin-left: 10%;
+}
+
+.col-xl-8 {
+    flex-basis: 83%;
+    max-width: 83%;
+}
+
+/* Font size on titles */
+.intro-header .page-heading h1 {
+    font-size: 3rem;
+}

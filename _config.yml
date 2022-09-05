@@ -18,13 +18,14 @@ url: https://s2group.cs.vu.nl/disc-website.github.io
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-    NEWS: "/pages/news"
-    PROJECTS-OLD: "/pages/projects-old"
+    ABOUT US:
+      - OUR MISSION: "/pages/ourmission"
+      - PARTNERS: "/pages/partners"
     PROJECTS: "/pages/projects"
     LABS: "/pages/labs"
-    OUR MISSION: "/pages/ourmission"
-    RESOURCES: "/pages/resources"
-    CONTACTS: "/pages/contacts"
+    RESOURCES:
+      - SUSTAINALAB: "/pages/sustainalab"
+    CONTACT: "/pages/contact"
 
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"

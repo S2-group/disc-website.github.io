@@ -1,11 +1,30 @@
 ---
-layout: page
+layout: labs
 title: Labs
+css:
+- /assets/css/index.css
+ext-css:
+- //fonts.googleapis.com/css?family=Roboto:400,700
+js:
+- /assets/js/index.js
+ext-js:
+- //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
 
-# ABN AMRO Lab
-### **A collaboration between ABN AMRO and the Vrije Universiteit Amsterdam**
-
-ABN AMRO Lab is a collaboration between ABN AMRO and the Vrije Universiteit Amsterdam. This collaboration allows ABN AMRO software architects and decision makers to work closer with software sustainability researchers in academia, contribute to education and science, and collaborate in PhD- and Master-level research. Academics in turn gain a better understanding of how real-world software can be measured and re-designed to achieve sustainability goals.
-
-*Contact: Contact: Prof. Dr. Patricia Lago p.lago@vu.nl*
+<div id="portfolio-out" class="page-section grey-section">
+  <div id="portfolio">
+    <div id="shinyapps-big">
+      {% for lab in site.data.labs %}
+	    <div class="shinyapp" style="width:65rem">
+          <a class="applink" href="{{ lab.url }}" target="_blank">
+            <img class="appimg" src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" style="width: 10%" alt="" />
+            <div class="apptitle">{{ lab.title }}</div>
+            <div class="appdesc">{{ lab.description }}</div>
+            <div class="appdesc">{{ lab.details }}</div>
+            <div class="appdesc">{{ lab.contact }}</div>
+          </a>
+        </div>
+	  {% endfor %}
+    </div>
+  </div>
+</div>
