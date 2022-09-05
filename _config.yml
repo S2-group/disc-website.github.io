@@ -23,8 +23,7 @@ navbar-links:
       - PARTNERS: "/pages/partners"
     PROJECTS: "/pages/projects"
     LABS: "/pages/labs"
-    RESOURCES:
-      - SUSTAINALAB: "/pages/sustainalab"
+    RESOURCES: "/pages/resources"
     CONTACT: "/pages/contacts"
 
 #   Resources:
