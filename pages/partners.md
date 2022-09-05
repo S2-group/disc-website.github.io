@@ -1,13 +1,13 @@
 ---
 layout: page
-title: DiSC Resources
+title: Partners
 ---
 
 ### Amsterdam Economic Board – LEAP Program
-The DISC is endorsed by the Amsterdam Economic Board under the LEAP Program.
 
-[//]: # (<!-- <a href="https://amsterdameconomicboard.com/en/initiative/leap"> -->)
-
-[//]: # (<!-- <img alt="AEB Logo" src="../assets/img/AmsterdamEconomicBoard.png"> -->)
-
-[//]: # (   <!-- </a> -->)
+<div style="display: inline-block; width:100px">
+<img alt="AEB Logo" src="{{ site.url }}/assets/img/AmsterdamEconomicBoard.png"/>
+</div>
+<div style="display: inline-block; width:800px; margin-left:10px">
+The DISC is endorsed by the Amsterdam Economic Board under the <a target="_blank" href="https://amsterdameconomicboard.com/en/initiative/leap">LEAP Program</a>.
+</div>
