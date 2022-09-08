@@ -26,4 +26,11 @@
 /* Font of menu items */
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
     font-family: 'IBM Plex Mono', monospace;
+    color: white;
+}
+
+/* Background of menu items */
+.navbar-custom {
+    border-bottom-color: black;
+    background-color: black;
 }
