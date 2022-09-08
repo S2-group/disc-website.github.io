@@ -7,7 +7,7 @@ The purpose of the VU Digital Sustainability Center (DiSC) is **to fuel collabor
 Its mission is to accelerate the creation of knowledge that is **relevant**, **useful** and **actionable** - relevant via
 high-quality research, useful for society, and actionable via the creation of know-hows.
 
-# Vision
+# <span style="color:#006eb9">Vision</span>
 In our vision, the center will include two pillars: **sustainable digitalization** (i.e., digital solutions that can adapt to
 change), and **digitalization for sustainability** (i.e., digital solutions that help organizations address
 sustainability goals). The first pillar falls in the core research and education of the Computer Science
@@ -32,31 +32,31 @@ By joining forces, the DiSC and its partners will accelerate industrial maturity
 research and education in digitalization and sustainability; act as the reference point for talents and excellent
 partnerships to solve the complex problems of today’s and tomorrow’s society.
 
-The main cross-cutting SDGs the DiSC addresses, are:
+The main cross-cutting SDGs the DiSC addresses are:
 * **SDG 12** Responsible consumption and production
   * software energy footprint
   * sustainable cloud society
 * **SDG 17** Partnerships for the goals
   * knowledge acceleration
   * societal impact
-
-## Kickstart challenges
+  
+## <span style="color:#006eb9">Kickstart challenges</span>
 The DiSC has started with the following challenges:
 
-Sustainability challenges
+### <span style="color:#53f60a">Sustainability challenges</span>
 * What is sustainability, and what does it mean for me / my organization / my business?
   * Understand how to embed sustainability in creating and evolving cloud-based software- and
 data management solutions
 
-Digitalization challenges
+### <span style="color:#53f60a">Digitalization challenges</span>
 * What should be digitally transformed?
   * Create new business/consumption models emerging from the digital transformation, and the
 associated digital solutions
 
-Implementation challenges
+### <span style="color:#53f60a">Implementation challenges</span>
 * How to accelerate knowledge co-creation in digital sustainability? How to guide adoption?
   * Build an actionable toolkit to help partners in the transition toward digital sustainability
 
-Education and Training challenges
+### <span style="color:#53f60a">Education and Training challenges</span>
 * What are the competencies and skills we need in order to accompany digital sustainability?
   * Rethink higher education and knowledge transfer in the university-practice ecosystem
