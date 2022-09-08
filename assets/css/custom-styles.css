@@ -16,7 +16,14 @@
     max-width: 83%;
 }
 
-/* Font size on titles */
+/* Font of page titles */
 .intro-header .page-heading h1 {
     font-size: 3rem;
+    font-family: 'IBM Plex Mono', monospace;
+    text-transform: uppercase;
+}
+
+/* Font of menu items */
+.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
+    font-family: 'IBM Plex Mono', monospace;
 }
