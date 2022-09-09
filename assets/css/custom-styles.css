@@ -34,3 +34,7 @@
     border-bottom-color: black;
     background-color: black;
 }
+
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+    border-color: black;
+}
