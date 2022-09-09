@@ -22,9 +22,9 @@ layout: base
 <div class="col-xl"></div>
 
 <div class="col-xl-5">
-<h1>NEWS</h1>
+<h1 style="font-family: 'IBM Plex Mono', monospace;">NEWS</h1>
 
-{% assign posts = paginator.news | default: site.news %}
+{% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
   {% for post in posts  %}
@@ -47,8 +47,8 @@ layout: base
     {% if site.feed_show_excerpt == false %}
     {% if thumbnail != "" %}
     <div class="post-image post-image-normal">
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+      <a href="{{ post.url | relative_url }}" aria-label="Thumbnail">
+        <img src="{{ thumbnail | relative_url }}" alt="Post thumbnail">
       </a>
     </div>
     {% endif %}

@@ -237,7 +237,7 @@ kramdown:
   input: GFM
 
 collections:
-  news:
+  posts:
     output: true
     layout: "post"
 
