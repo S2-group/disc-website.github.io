@@ -60,3 +60,7 @@
 .posts-list {
     max-width: 800px;
 }
+
+footer a {
+    color: #006eb9;
+}
