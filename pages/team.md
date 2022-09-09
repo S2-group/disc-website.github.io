@@ -13,7 +13,7 @@ title: Team
         <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
     </div>
     <div class="team-member-container">
-        <div class="team-member team-member-role">Head of Operations</div>
+        <div class="team-member team-member-role">Scientific coordination</div>
         <img alt="Ilias Gerostathopoulos" src="{{ site.url }}/assets/img/team/IliasGerostathopoulos.jpg"/>
         <div class="team-member team-member-name">Dr. Ilias Gerostathopoulos</div>
         <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
