@@ -38,3 +38,24 @@
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
     border-color: black;
 }
+
+.team-member {
+    text-align: center;
+}
+
+.team-member-role {
+    font-size: larger;
+}
+
+.team-member-name {
+}
+
+.team-member-affiliation {
+    font-size: medium;
+}
+
+.team-member-container {
+    display: inline-block;
+    width: 220px;
+    margin-left: 30px;
+}

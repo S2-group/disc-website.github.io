@@ -21,6 +21,7 @@ navbar-links:
     ABOUT US:
       - OUR MISSION: "/pages/ourmission"
       - PARTNERS: "/pages/partners"
+      - TEAM: "/pages/team"
     PROJECTS: "/pages/projects"
     LABS: "/pages/labs"
     RESOURCES: "/pages/resources"
