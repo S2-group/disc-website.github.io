@@ -47,9 +47,6 @@
     font-size: larger;
 }
 
-.team-member-name {
-}
-
 .team-member-affiliation {
     font-size: medium;
 }
@@ -58,4 +55,8 @@
     display: inline-block;
     width: 220px;
     margin-left: 30px;
+}
+
+.posts-list {
+    max-width: 800px;
 }

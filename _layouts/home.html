@@ -1,17 +1,33 @@
 ---
-layout: page
+layout: base
 ---
+
+{% include header.html type="page" %}
+
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
+  <div class="row">
+
+      {% if page.before-content %}
+      <div class="before-content">
+        {% for file in page.before-content %}
+        {% include {{ file }} %}
+        {% endfor %}
+      </div>
+      {% endif %}
 
 <!-- -------------------------------------------- -->
 <!-- ---------------NEWS SECTION----------------- -->
 <!-- -------------------------------------------- -->
 
+<div class="col-xl"></div>
+
+<div class="col-xl-5">
 <h1>NEWS</h1>
 
-{% assign posts = site.news %}
+{% assign posts = paginator.news | default: site.news %}
 
-<div class="posts-list" style="max-width: 600px">
-  {% for post in posts limit: 2 %}
+<div class="posts-list">
+  {% for post in posts  %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
@@ -107,3 +123,24 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+</div>
+
+<div class="col-xl"></div>
+
+<div class="col-xl-3">
+  <a class="twitter-timeline" data-theme="dark" data-height="800" href="https://twitter.com/s2_group?ref_src=twsrc%5Etfw">Tweets by DISC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div class="col-xl"></div>
+
+      {% if page.after-content %}
+      <div class="after-content">
+        {% for file in page.after-content %}
+        {% include {{ file }} %}
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% include comments.html %}
+  </div>
+</div>
