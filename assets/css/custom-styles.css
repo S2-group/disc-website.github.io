@@ -21,6 +21,7 @@
     font-size: 3rem;
     font-family: 'IBM Plex Mono', monospace;
     text-transform: uppercase;
+    text-shadow: none;
 }
 
 /* Font of menu items */
