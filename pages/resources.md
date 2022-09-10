@@ -1,7 +1,7 @@
 ---
 layout: labs
 title: Resources
-subtitle: Results we share 
+subtitle: Some highlights of results we share
 css:
 - /assets/css/index.css
 ext-css:
