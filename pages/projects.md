@@ -1,6 +1,7 @@
 ---
 layout: projects
 title: Projects
+subtitle: Our research at a glance
 css:
 - /assets/css/index.css
 ext-css:

@@ -1,6 +1,7 @@
 ---
 layout: labs
 title: Labs
+subtitle: Our long-term collaborations
 css:
 - /assets/css/index.css
 ext-css:
