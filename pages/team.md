@@ -22,5 +22,21 @@ title: Team
 
 ### Participating researchers
 
-
+<div style="padding-top: 10px; padding-bottom: 30px;">
+    <div class="team-member-container">
+        <img alt="Roberto Verdecchia" src="{{ site.url }}/assets/img/team/RobertoVerdecchia.jpeg"/>
+        <div class="team-member team-member-name">Dr. Roberto Verdecchia</div>
+        <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
+    </div>
+    <div class="team-member-container">
+        <img alt="Iffat Fatima" src="{{ site.url }}/assets/img/team/IffatFatima.jpg"/>
+        <div class="team-member team-member-name">Iffat Fatima</div>
+        <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
+    </div>
+    <div class="team-member-container">
+        <img alt="Markus Funke" src="{{ site.url }}/assets/img/team/MarkusFunke.jpeg"/>
+        <div class="team-member team-member-name">Markus Funke</div>
+        <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
+    </div>
+</div>
 
