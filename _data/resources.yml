@@ -2,3 +2,8 @@
   description: This is an archive that captures reusable (software and not only) tactics, open for everybody to learn and contribute. It is an initiative of the VU Digital Sustainability Center and the S2 Research Group.
   url: https://s2group.cs.vu.nl/AwesomeAndDarkTactics/
   img: AADT.png
+- title: Software Asssessment Framework (SAF) Toolkit
+  description: A set of instruments to design software and digital solutions to address sustainability as quality concerns, and define and operationalize them.
+  url: https://github.com/S2-group/SAF-Toolkit
+  img: SAFtoolkit.png
+  
