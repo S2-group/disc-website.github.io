@@ -38,5 +38,20 @@ title: Team
         <div class="team-member team-member-name">Markus Funke</div>
         <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
     </div>
+    <div class="team-member-container">
+        <img alt="Victor de Boer" src="{{ site.url }}/assets/img/team/VictordeBoer.jpeg"/>
+        <div class="team-member team-member-name">Dr. Victor de Boer</div>
+        <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
+    </div>
+    <div class="team-member-container">
+        <img alt="Roderick van der Weerdt" src="{{ site.url }}/assets/img/team/RoderickvanderWeerdt.jpeg"/>
+        <div class="team-member team-member-name">Roderick van der Weerdt</div>
+        <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
+    </div>
+    <div class="team-member-container">
+        <img alt="Ronald Siebes" src="{{ site.url }}/assets/img/team/RonaldSiebes.jpeg"/>
+        <div class="team-member team-member-name">Markus Funke</div>
+        <div class="team-member team-member-affiliation">Dr. Ronald Siebes</div>
+    </div>
 </div>
 
