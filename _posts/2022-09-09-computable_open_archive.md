@@ -3,7 +3,6 @@ layout: post
 title: Computable publishes article about open archive
 subtitle: Archive of Awesome and Dark Tactics
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
 
