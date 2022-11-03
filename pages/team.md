@@ -53,5 +53,10 @@ title: Team
         <div class="team-member team-member-name">Dr. Ronald Siebes</div>
         <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
     </div>
+    <div class="team-member-container">
+        <img alt="Alexandru Iosup" src="{{ site.url }}/assets/img/team/AlexandruIosup.jpeg"/>
+        <div class="team-member team-member-name">Prof. Alexandru Iosup</div>
+        <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
+    </div>
 </div>
 

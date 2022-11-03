@@ -14,3 +14,16 @@
   description: This is an inter-disciplinary collaboration between researchers of Vrije Universiteit Amsterdam and University of Twente
   img: responsible-societies.jpeg
   url: https://www.utwente.nl/en/et/news/2021/6/1097504/kick-off-joint-research-program-ut-and-vu-creating-responsible-societies
+- title: Interconnect
+  description: Interconnect (Horizon2020) aims to achieve a relevant milestone in the democratization of efficient energy management, through a flexible and interoperable ecosystem.
+  img: interconnectproject.png
+  url: https://interconnectproject.eu/
+- title: GraphMassivizer
+  description: GraphMassivizer (Horizon2020) aims at supporting extreme and sustainable graph processing for urgent societal challenges in Europe using serverless Cloud computing.
+  img:
+  url:
+- title: CloudStars
+  description: CloudStars provides the best cost, performance, and energy tradeoffs in Cloud Computing infrastructures.
+  img:
+  url:
+
