@@ -50,8 +50,8 @@ title: Team
     </div>
     <div class="team-member-container">
         <img alt="Ronald Siebes" src="{{ site.url }}/assets/img/team/RonaldSiebes.jpeg"/>
-        <div class="team-member team-member-name">Markus Funke</div>
-        <div class="team-member team-member-affiliation">Dr. Ronald Siebes</div>
+        <div class="team-member team-member-name">Dr. Ronald Siebes</div>
+        <div class="team-member team-member-affiliation">Vrije Universiteit Amsterdam</div>
     </div>
 </div>
 
