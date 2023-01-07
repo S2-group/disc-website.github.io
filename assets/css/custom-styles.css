@@ -65,3 +65,9 @@
 footer a {
     color: #006eb9;
 }
+
+.launch-event-schedule {
+    color: #006eb9;
+    font-weight: bold;
+    padding-right: 10px
+}
