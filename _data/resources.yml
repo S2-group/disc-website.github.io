@@ -10,3 +10,7 @@
   description: A platform for modeling and simulation of technologies in Cloud datacenters. OpenDC includes novel models for emerging cloud-datacenter technologies, such as serverless computing with FaaS deployment and TensorFlow-based machine learning.
   url: https://opendc.org/
   img: opendc.jpeg
+- title: Visualization of data center news coverage in the Netherlands
+  description: As part of the "New Cloud for a Sustainable Digital Society" project, we have created a PowerBI tool for visualizing the news coverage in the Netherlands related to data centers and the related topics/concerns (economy, energy, heat, ...)
+  url: https://anna-bessin.github.io/NIA/
+  img: sustainable_digital_society.png

@@ -24,6 +24,8 @@ navbar-links:
       - TEAM: "/pages/team"
     PROJECTS: "/pages/projects"
     LABS: "/pages/labs"
+    INTERNSHIPS: "/pages/internships"
+    DROPS OF KNOWLEDGE: "/pages/drops_of_knowledge"
     RESOURCES: "/pages/resources"
     CONTACT: "/pages/contacts"
 

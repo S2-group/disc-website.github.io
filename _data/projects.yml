@@ -26,4 +26,11 @@
   description: CloudStars provides the best cost, performance, and energy tradeoffs in Cloud Computing infrastructures.
   img:
   url:
-
+- title: ExtremeXP
+  description: ExtremeXP (Horizon Europe) aims to provide accurate, energy-efficient, fit-for-purpose, and trustworthy data-driven insights via evaluating different complex analytics variants, considering end users’ preferences and feedback in an automated way.
+  img: extremexp.png
+  url: https://extremexp.eu/
+- title: A New Cloud for a Sustainable Digital Society
+  description: This project researches the sustainability of cloud computing, by identifying the related social, technical and environmental risks and benefits, and complementing them with examples of possible countermeasures. It is funded by the Network Insitute of the VU as an Academy Project for 2022.
+  img: sustainable_digital_society.png
+  url: https://networkinstitute.org/projects/a-new-cloud-for-a-sustainable-digital-society/

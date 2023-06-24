@@ -18,7 +18,7 @@ ext-js:
       {% for lab in site.data.labs %}
 	    <div class="shinyapp" style="width:65rem">
           <a class="applink" href="{{ lab.url }}" target="_blank">
-            <img class="appimg" src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" style="width: 10%" alt="" />
+            <img class="appimg" src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" style="width: {{ lab.img-width }}" alt="" />
             <div class="apptitle">{{ lab.title }}</div>
             <div class="appdesc">{{ lab.description }}</div>
             <div class="appdesc">{{ lab.details }}</div>
