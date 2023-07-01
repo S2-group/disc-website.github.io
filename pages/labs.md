@@ -2,7 +2,7 @@
 layout: labs
 title: Labs
 subtitle: Our long-term collaborations
-subtitledescription: Labs are funded by external companies. They provide structure for their strategic collaboration with DiSC researchers and young talents, for PhD research and Master-level research.
+description: Labs are funded by external companies. They provide structure for their strategic collaboration with DiSC researchers and young talents, for PhD research and Master-level research.
 css:
 - /assets/css/index.css
 ext-css:
