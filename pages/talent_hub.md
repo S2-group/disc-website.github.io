@@ -15,14 +15,12 @@ ext-js:
   <div id="portfolio">
     <div id="shinyapps-big"> 
       {% for lab in site.data.talent_labs %}
-	    <div class="shinyapp" style="width:65rem; background-color:#e6faff;">
-          <a class="applink" href="{{ lab.url }}" target="_blank">
+	    <div class="shinyapp" style="cursor: pointer; width:65rem; background-color:#e6faff;" onclick="window.location='{{ lab.url }}'">
             <img class="appimg" src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" style="width: {{ lab.img-width }}; color:#e6faff; filter: opacity(0.7) ;" alt="" />
             <div class="apptitle">{{ lab.title }}</div>
             <div class="appdesc">{{ lab.description }}</div>
             <div class="appdesc">{{ lab.details }}</div>
             <div class="appdesc">{{ lab.contact }}</div>
-          </a>
         </div>
 	  {% endfor %}
     </div>
