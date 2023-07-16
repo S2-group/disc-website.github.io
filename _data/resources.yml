@@ -12,5 +12,5 @@
   img: opendc.jpeg
 - title: Visualization of data center news coverage in the Netherlands
   description: As part of the "New Cloud for a Sustainable Digital Society" project, we have created a PowerBI tool for visualizing the news coverage in the Netherlands related to data centers and the related topics/concerns (economy, energy, heat, ...)
-  url: https://anna-bessin.github.io/NIA/
+  url: /pages/dc_news_coverage
   img: sustainable_digital_society.png
