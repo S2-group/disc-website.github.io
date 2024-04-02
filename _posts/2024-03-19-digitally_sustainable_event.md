@@ -25,11 +25,10 @@ Here's a sneak peek at the **preliminary program:**
 [15.15 - 15.30]    Welcome by Patricia Lago (DiSC Director) & Davide Ianuzzi (VU Chief Impact Officer)
 
 [15.30 - 16.00]    Invited talk: “Digital Commons for a Sustainable Future”, by Sander van der Waal (Research Director Waag Futurelab)
-<!-- <div style="display: flex; align-items: top;">
+<div style="display: flex; align-items: top;">
     <p style="margin-left: 30px; margin-right: 20px;font-style: italic; color:#595959; font-size: 16px;">We are not meeting our societal objectives to address our ecological and climate crises. Indeed, as the nitrogen-crisis demonstrates, our current models and ways of working get stuck and a way out is not obvious. At the same time local communities find new ways of working that help meet some of the challenges, for example through the establishment of energy cooperatives. Therefore, a more fundamental rethink of the roles of various stakeholders can help contribute to such solutions. The traditional ‘commons’ as researched by Elinor Ostrom (a.o.) have been an inspiration to Waag Futurelab to research how in the digital realm new collaborations between actors from government, industry and society could jointly help contribute to solving issues that relate to sustainability. In this session, Sander will focus on some initiatives around digital commons that specifically focus on data sharing and governance in the areas of energy and agriculture. He will also present and discuss how digital commons as a field is emerging and what further opportunities he sees in order to meet sustainability challenges. </p>
     <img src="/assets/img/posts-screenshots/sander-waag-circle.jpg" alt="Image" style="height: 200px; margin-right: 20px"/>
-</div> -->
-
+</div>
 [16.00 - 17.00]    Pitches program
 
                            Closing and Outlook
