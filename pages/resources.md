@@ -14,9 +14,9 @@ ext-js:
   <div id="portfolio">
     <div id="shinyapps-big">
       {% for resource in site.data.resources %}
-	    <div class="shinyapp" style="width:65rem">
-          <a class="applink" href="{{ resource.url }}" target="_blank">
-            <img class="appimg" src="{{ site.url }}/assets/img/resource-screenshots/{{ resource.img }}" style="width: 10%" alt="" />
+	    <div class="shinyapp" style="width:300px">
+          <a class="applink" href="{{ resource.url }}" target="_blank" >
+            <img class="appimg" src="{{ site.url }}/assets/img/resource-screenshots/{{ resource.img }}" style="width: 100%" alt="" />
             <div class="apptitle">{{ resource.title }}</div>
             <div class="appdesc">{{ resource.description }}</div>
           </a>
