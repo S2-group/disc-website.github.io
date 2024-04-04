@@ -369,7 +369,6 @@ footer {
 }
 #shinyapps-big .shinyapp .apptitle {
     font-weight: bold;
-    text-transform: uppercase;
     padding: 0.625rem 0.9375rem;
 }
 #shinyapps-big .shinyapp .appimg {
