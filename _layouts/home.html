@@ -55,10 +55,10 @@ layout: base
     {% endif %}
 
     <a href="{{ post.url | relative_url }}">
-      <h2 class="post-title">{{ post.title | strip_html }}</h2>
+      <h2 class="post-title-home">{{ post.title | strip_html }}</h2>
 
       {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <h3 class="post-subtitle-home">
         {{ post.subtitle | strip_html }}
         </h3>
       {% endif %}
@@ -86,7 +86,7 @@ layout: base
     </div>
     {% endif %}
 
-    <div class="post-entry">
+    <div class="post-entry-home">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
