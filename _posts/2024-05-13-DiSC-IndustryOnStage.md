@@ -3,7 +3,7 @@ layout: post
 title: Save the Date - Industry on Stage
 subtitle: Wednesday July 3rd, 15.00-17.00
 cover-img: /assets/img/posts-screenshots/disc-banner-industryonstage.png
-share-img: /assets/img/posts-screenshots/disc-banner-industryonstage.png
+share-img: /assets/img/posts-screenshots/disc-thumb-industryonstage.png
 thumbnail-img: /assets/img/posts-screenshots/disc-thumb-industryonstage.png
 ---
 ### Save the Date - Industry on Stage
@@ -30,9 +30,9 @@ We are looking forward to meeting you there!
 
 *Engage with dynamic 3-minute Industry Pitches, where companies address*
 
- - *"WHO are we?"*
- - *"WHAT are our challenges?"* 
- - *"HOW can you help us?"*
+ - *"WHO are they?"*
+ - *"WHAT are their challenges?"* 
+ - *"HOW can we help them?"*
 
 *Discover pathways for collaborative innovation with researchers following these insightful pitches.*
 
