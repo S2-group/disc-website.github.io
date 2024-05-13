@@ -38,7 +38,7 @@ We are looking forward to meeting you there!
 
 <span class="launch-event-schedule">16.15 - 17.00</span>Panel Discussion
 
-A rich exchange of ideas with a line-up of experts from the industry and public sector. Explore firsthand insights and strategies as our panel shares their wealth of experience, offering invaluable perspectives on shaping a sustainable future.
+*A rich exchange of ideas with a line-up of experts from the industry and public sector. Explore firsthand insights and strategies as our panel shares their wealth of experience, offering invaluable perspectives on shaping a sustainable future.*
 
 <span class="launch-event-schedule">17.30 - 18.00</span>Drinks, Networking and Posters
 
