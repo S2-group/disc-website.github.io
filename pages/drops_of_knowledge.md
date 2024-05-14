@@ -21,10 +21,10 @@ ext-js:
         #drops {
             display: flex;
             flex-wrap: wrap;
-            justify-content: flex-start;
+            justify-content: center;
         }
         .video-tile {
-            width: calc(33.33% - 10px); /* Adjust width as needed */
+            width: calc(33.33% - 10px);
             margin-bottom: 20px;
             margin-left: 10px;
             margin-right: 10px;
@@ -32,7 +32,7 @@ ext-js:
         }
         .video-tile iframe {
             width: 100%;
-            height: 280px; /* Adjust height as needed */
-            border: 1px solid #ccc; /* Add border for better visualization */
+            height: 280px; 
+            border: 1px solid #ccc; 
         }
     </style>
