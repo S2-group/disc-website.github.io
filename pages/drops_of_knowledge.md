@@ -10,16 +10,29 @@ ext-js:
 - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
 
-<div id="portfolio-out" class="page-section grey-section">
-  <div id="portfolio">
-    <div id="shinyapps-big">
-      {% for video in site.data.videos %}
-	    <div class="shinyapp">
-            <img class="appimg" src="{{ site.url }}/assets/img/video-screenshots/{{ video.img }}" alt="" />
-            <div class="apptitle">{{ video.title }}</div>
-            <div class="appdesc">{{ video.description }}</div>
-        </div>
-	  {% endfor %}
+  <div id="drops">
+      {% for videoid in site.data.videos.videos %}
+            <div class="video-tile">
+                <iframe src="https://www.youtube.com/embed/{{ videoid }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+  	  {% endfor %}
     </div>
-  </div>
-</div>
+  <style>
+        #drops {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+        }
+        .video-tile {
+            width: calc(33.33% - 10px); /* Adjust width as needed */
+            margin-bottom: 20px;
+            margin-left: 10px;
+            margin-right: 10px;
+            box-sizing: border-box;
+        }
+        .video-tile iframe {
+            width: 100%;
+            height: 280px; /* Adjust height as needed */
+            border: 1px solid #ccc; /* Add border for better visualization */
+        }
+    </style>
