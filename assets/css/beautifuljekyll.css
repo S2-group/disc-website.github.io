@@ -467,10 +467,19 @@ footer .footer-custom-content {
   font-size: 1.875rem;
   margin-top: 0;
 }
+.post-preview .post-title-home {
+  font-size: 1.5rem;
+  font-family: Arial, sans-serif;
+  margin-top: 0;
+}
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
   margin-bottom: 0.625rem;
+}
+.post-preview .post-subtitle-home {
+  font-size: 1.2rem;
+  margin-top: 0;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
@@ -543,7 +552,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 @media (min-width: 768px) {
@@ -552,6 +561,14 @@ footer .footer-custom-content {
   }
 }
 
+@media (max-width: 600px) { 
+
+  .post-preview .post-image img {
+    display: none;
+  }
+
+  }
+  
 /* --- Tags --- */
 
 .blog-tags {
