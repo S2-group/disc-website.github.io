@@ -3,7 +3,7 @@ layout: post
 title: Save the Date - Industry on Stage
 subtitle: Wednesday July 3rd, 15.00-17.00
 cover-img: /assets/img/posts-screenshots/disc-banner-industryonstage.png
-share-img: /assets/img/posts-screenshots/disc-thumb-industryonstage.png
+share-img: /assets/img/posts-screenshots/disc-social-industryonstage.png
 thumbnail-img: /assets/img/posts-screenshots/disc-thumb-industryonstage.png
 ---
 ### Save the Date - Industry on Stage
@@ -16,8 +16,7 @@ The event of the VU Digital Sustainability Center will take place on July 3rd at
 
 The event is in-person at the VU Campus (NU building Theatre 3 NU-2C33, <a target="blank" href="https://goo.gl/maps/E2MT4ZGRFYyGSPwu9">De Boelelaan 1111, 1081 HV Amsterdam</a>).
 
-**Register [here](https://docs.google.com/forms/d/12BH5bYNMGBaTtS3XGGJUgF9BIFll1tzqaTRaDycMLUs/viewform
-) to reserve your spot.** 
+**Register [here](https://forms.gle/UQqGex6BrrirhUwA7) to reserve your spot.** 
 <!-- Registration to reserve your ticket now.  -->
 <!-- Reserve now your ticket via <a target="blank" href="https://www.eventbrite.nl/e/launch-event-disc-digital-sustainability-center-tickets-482442206627?aff=ebdssbdestsearch&keep_tld=1">Eventbrite</a>. -->
 
