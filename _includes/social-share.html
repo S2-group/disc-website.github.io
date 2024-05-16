@@ -12,24 +12,24 @@
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | strip_html | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
-      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
+      class="btn btn-social-icon" title="Share on Twitter">
+      <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
       <span class="sr-only">Twitter</span>
     </a>
   {% endif %}
 
   {% if site.share-links-active.facebook %}
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
-      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      class="btn btn-social-icon" title="Share on Facebook">
+      <i class="fa-brands fa-facebook" aria-hidden="true"></i>
       <span class="sr-only">Facebook</span>
     </a>
   {% endif %}
 
   {% if site.share-links-active.linkedin %}
     <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
-      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      class="btn btn-social-icon" title="Share on LinkedIn">
+      <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
       <span class="sr-only">LinkedIn</span>
     </a>
   {% endif %}
