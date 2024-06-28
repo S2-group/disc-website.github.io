@@ -14,7 +14,7 @@ Join us for an interactive event "Industry on Stage" where companies pitch their
 
 The event of the VU Digital Sustainability Center will take place on July 3rd at 15:00-17:00, followed by drinks, networking and poster session. 
 
-The event is in-person at the VU Campus (NU building Theatre 3 NU-2C33, <a target="blank" href="https://goo.gl/maps/E2MT4ZGRFYyGSPwu9">De Boelelaan 1111, 1081 HV Amsterdam</a>).
+The event is in-person at the VU Campus (NU building Theatre 3 NU-2A65, <a target="blank" href="https://goo.gl/maps/E2MT4ZGRFYyGSPwu9">De Boelelaan 1111, 1081 HV Amsterdam</a>).
 
 **Register [here](https://forms.gle/UQqGex6BrrirhUwA7) to reserve your spot.** 
 <!-- Registration to reserve your ticket now.  -->
@@ -38,11 +38,10 @@ The event is in-person at the VU Campus (NU building Theatre 3 NU-2C33, <a targe
 
 *Discover pathways for collaborative innovation with researchers following these insightful pitches.*
 
-<span class="launch-event-schedule">16.15 - 17.00</span>Panel Discussion
+<span class="launch-event-schedule">16.15 - 17.00</span>Think Tank Discussion
 
 *A rich exchange of ideas with a line-up of experts from the industry and public sector. Explore firsthand insights and strategies as our panel shares their wealth of experience, offering invaluable perspectives on shaping a sustainable future.*
 
-<span class="launch-event-schedule">17.30 - 18.00</span>Drinks, Networking and Posters
-
+<span class="launch-event-schedule">17.30 - 18.00</span>Drinks and Networking
 
 Join us to connect, learn and contribute to the conversation on digital sustainability. 
