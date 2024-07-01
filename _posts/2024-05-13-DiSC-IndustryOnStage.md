@@ -42,6 +42,6 @@ The event is in-person at the VU Campus (NU building NU-2A65, <a target="blank" 
 
 *A rich exchange of ideas with a line-up of experts from the industry and public sector. Explore firsthand insights and strategies as our panel shares their wealth of experience, offering invaluable perspectives on shaping a sustainable future.*
 
-<span class="launch-event-schedule">17.30 - 18.00</span>Drinks and Networking
+<span class="launch-event-schedule">17.00 - 18.00</span>Drinks and Networking
 
 Join us to connect, learn and contribute to the conversation on digital sustainability. 
