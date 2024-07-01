@@ -8,13 +8,13 @@ thumbnail-img: /assets/img/posts-screenshots/disc-thumb-industryonstage.png
 ---
 ### Save the Date - Industry on Stage
 
-Join us for an interactive event "Industry on Stage" where companies pitch their digital sustainability needs and challenges, a panel of experts share experience and insights on sustainability practices and students present their innovative posters. Engage in lively debates and gain valuable perspectives from our expert panel as they discuss their experiences and strategies for a sustainable future. 
+Join us for an interactive event "Industry on Stage" where companies pitch their digital sustainability needs and challenges, a panel of experts share experience and insights on sustainability practices. Engage in lively debates and gain valuable perspectives from our expert panel as they discuss their experiences and strategies for a sustainable future. 
 
 <!-- Don't miss this opportunity to network, learn, and contribute to the conversation on digital sustainability. -->
 
-The event of the VU Digital Sustainability Center will take place on July 3rd at 15:00-17:00, followed by drinks, networking and poster session. 
+The event of the VU Digital Sustainability Center will take place on July 3rd at 15:00-17:00, followed by drinks and networking. 
 
-The event is in-person at the VU Campus (NU building Theatre 3 NU-2A65, <a target="blank" href="https://goo.gl/maps/E2MT4ZGRFYyGSPwu9">De Boelelaan 1111, 1081 HV Amsterdam</a>).
+The event is in-person at the VU Campus (NU building NU-2A65, <a target="blank" href="https://vu.nl/en/about-vu/more-about/new-university-building">De Boelelaan 1111, 1081 HV Amsterdam</a>).
 
 **Register [here](https://forms.gle/UQqGex6BrrirhUwA7) to reserve your spot.** 
 <!-- Registration to reserve your ticket now.  -->
