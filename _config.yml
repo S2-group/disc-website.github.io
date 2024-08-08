@@ -26,7 +26,7 @@ navbar-links:
       - PROJECTS: "/pages/projects"
       - LABS: "/pages/labs"
       - WORK WITH US: "pages/work_with_us"
-    Events: "/pages/events"
+    # Events: "/pages/events"
     TALENT HUB: "/pages/talent_hub"
     DROPS OF KNOWLEDGE: "/pages/drops_of_knowledge"
     RESOURCES: "/pages/resources"
