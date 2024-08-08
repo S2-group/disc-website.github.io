@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WoRK WITH US
+title: WORK WITH US
 ---
 
 # Industry Thesis Project Proposals

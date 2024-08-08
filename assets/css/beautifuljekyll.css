@@ -255,11 +255,11 @@ img {
   font-size: 1em;
   border: 0;
   padding: 0;
-  width: 100%;
+  width: auto;
   word-break: break-word;
 }
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
-  white-space: normal;
+  white-space: nowrap;
   padding: 0.625rem;
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   text-decoration: none !important;
