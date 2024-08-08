@@ -22,13 +22,15 @@ navbar-links:
       - OUR MISSION: "/pages/ourmission"
       - PARTNERS: "/pages/partners"
       - TEAM: "/pages/team"
-    PROJECTS: "/pages/projects"
-    LABS: "/pages/labs"
+    R & D   : 
+      - PROJECTS: "/pages/projects"
+      - LABS: "/pages/labs"
+      - WORK WITH US: "pages/work_with_us"
+    Events: "/pages/events"
     TALENT HUB: "/pages/talent_hub"
     DROPS OF KNOWLEDGE: "/pages/drops_of_knowledge"
     RESOURCES: "/pages/resources"
     CONTACT: "/pages/contacts"
-
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
