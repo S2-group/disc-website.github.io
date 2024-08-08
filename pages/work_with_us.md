@@ -14,6 +14,9 @@ To facilitate industry-academia collaborations, the DiSC supports the matchmakin
 Make this a URL to the [PDF template](/assets/docs/disc-industry-thesis-project-proposal.pdf)
 Companies / organizations use the provided template to create a lightweight description of their project idea. They then send this PDF via email to the scientific coordinators at the DiSC, Justus Bogner <<j.bogner@vu.nl>> and Filip Ilievski <<f.ilievski@vu.nl>>. The DiSC will then forward it to researchers with suitable expertise, who contact the companies / organizations to create a more concrete project proposal together. Finally, students are recruited, and the projects can start.
 
+<p align="center">
+<img src="/assets/img/work-with-us/disc-thesis-project-process.png" alt="disc-thesis-project-process">
+</p>
 
 ## Prerequisites
 1. The thesis project is in the scope of the [DiSC topics](https://digitalsustainabilitycenter.nl/pages/ourmission/). That means that the project is either about improving at least one sustainability dimension (environmental, social, economic, technical) for some form of digital technologies (e.g., software, digital infrastructure, hardware, etc.) or it is about using digital technologies to improve (non-digital) sustainability.
