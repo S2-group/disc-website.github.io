@@ -22,10 +22,10 @@ navbar-links:
       - OUR MISSION: "/pages/ourmission"
       - PARTNERS: "/pages/partners"
       - TEAM: "/pages/team"
-    R & D   : 
+    R&D   : 
       - PROJECTS: "/pages/projects"
       - LABS: "/pages/labs"
-      - WORK WITH US: "pages/work_with_us"
+      - THESIS PROJECTS AND INTERNSHIPS: "pages/work_with_us"
     # Events: "/pages/events"
     TALENT HUB: "/pages/talent_hub"
     DROPS OF KNOWLEDGE: "/pages/drops_of_knowledge"
