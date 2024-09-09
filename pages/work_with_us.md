@@ -33,6 +33,6 @@ To provide enough time for the matchmaking, project proposals should be submitte
 
 
 ## Links
-- PDF template: <insert ULR>
+- [PDF template](/assets/docs/disc-industry-thesis-project-proposal.pdf)
 - Coordinator emails: <j.bogner@vu.nl> and <f.ilievski@vu.nl>
 - DiSC topics: <https://digitalsustainabilitycenter.nl/pages/ourmission/>
