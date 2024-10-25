@@ -26,7 +26,7 @@ navbar-links:
       - PROJECTS: "/pages/projects"
       - LABS: "/pages/labs"
       - THESIS PROJECTS AND INTERNSHIPS: "pages/work_with_us"
-    # Events: "/pages/events"
+    Events: "/pages/events"
     TALENT HUB: "/pages/talent_hub"
     DROPS OF KNOWLEDGE: "/pages/drops_of_knowledge"
     RESOURCES: "/pages/resources"
@@ -244,6 +244,15 @@ collections:
   posts:
     output: true
     layout: "post"
+  cocktails:
+    output: true
+    layout: "events"
+  lectures:
+    output: true
+    layout: "events"
+  discevents:
+    output: true
+    layout: "events"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -282,4 +291,3 @@ plugins:
   
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
