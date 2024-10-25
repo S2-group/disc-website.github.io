@@ -9,25 +9,41 @@ ext-css:
 ext-js:
 - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
-
 <div id="shinyapps-big">
     {% for videoid in site.data.videos.videos %}
         <div class="video-tile shinyapp">
-            <iframe src="https://www.youtube.com/embed/{{ videoid }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/{{ videoid }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </div>
-  	{% endfor %}
+    {% endfor %}
 </div>
-  <style>
-        .video-tile {
-            width: calc(33.33% - 10px);
-            margin-bottom: 20px;
-            margin-left: 10px;
-            margin-right: 10px;
-            box-sizing: border-box;
-        }
-        .video-tile iframe {
-            width: 100%;
-            height: auto; 
-            border: 1px solid #ccc; 
-        }
-    </style>
+
+<style>
+    #shinyapps-big {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .video-tile {
+        width: calc(33.33% - 20px);
+        margin: 10px;
+        box-sizing: border-box;
+    }
+
+    .video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* Aspect ratio 16:9 (9 / 16 = 0.5625) */
+        overflow: hidden;
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 1px solid #ccc;
+    }
+</style>
