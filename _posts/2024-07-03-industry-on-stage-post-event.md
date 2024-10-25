@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Industry on Stage
-subtitle: Five real-life challenges for Digital Sustainability
+subtitle: Five real-world challenges for Digital Sustainability
 event-date: 2024-07-03
 cover-img: /assets/img/posts-screenshots/disc-banner-industryonstage.png
-share-img: /assets/img/posts-screenshots/disc-social-industryonstage.png
-thumbnail-img: /assets/img/posts-screenshots/disc-thumb-industryonstage.png
+share-img: /assets/img/posts-screenshots/ios-pitches.jpeg
+thumbnail-img: /assets/img/posts-screenshots/ios-pitches.jpeg
 ---
 
 

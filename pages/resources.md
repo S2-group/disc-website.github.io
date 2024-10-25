@@ -18,7 +18,7 @@ ext-js:
           <a class="applink" href="{{ resource.url }}" target="_blank" >
             <img class="appimg" src="{{ site.url }}/assets/img/resource-screenshots/{{ resource.img }}" style="width: 100%" alt="" />
             <div class="apptitle">{{ resource.title }}</div>
-            <div class="appdesc">{{ resource.description }}</div>
+            <div class="appdesc">{{ resource.description}}</div>
           </a>
         </div>
 	  {% endfor %}

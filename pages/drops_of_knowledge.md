@@ -9,14 +9,17 @@ ext-css:
 ext-js:
 - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
-<div id="shinyapps-big">
-    {% for videoid in site.data.videos.videos %}
-        <div class="video-tile shinyapp">
-            <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/{{ videoid }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="container-md" style="margin-bottom:40px; ">
+    <div id="shinyapps-big">
+        {% for videoid in site.data.videos.videos %}
+            <div class="video-tile" style="width=24rem;margin-bottom:10px">
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/{{ videoid }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
             </div>
-        </div>
-    {% endfor %}
+        {% endfor %}
+    </div>
 </div>
 
 <style>

@@ -9,6 +9,7 @@ layout: default
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <style>
+
         .container {
             max-width: 1200px;
             margin: 0 auto;
@@ -89,73 +90,74 @@ layout: default
     </style>
 </head>
 <body>
+
+    {% include header.html type="page" %}
+
     {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-
-
-    
-<div class="container">
-    <h1>Research Cocktails</h1>
-    <button class="scroll-button scroll-left" onclick="scrollLefty('cocktails')">&#10094;</button>
-    <ul class="post-list" id="cocktails">
-        {% assign sorted_posts = site.cocktails | sort: "event-date" | reverse%}
-        {% for post in sorted_posts %}
-        <li class="post">
-            <a href="{{ post.url }}">
-            <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
-            <div>
-                <div class="post-title">
-                    {{ post.title | truncate: 50, "..." }}<br>
+<div class="container-md">
+    <div class="container">
+        <h1>Research Cocktails</h1>
+        <button class="scroll-button scroll-left" onclick="scrollLefty('cocktails')">&#10094;</button>
+        <ul class="post-list" id="cocktails">
+            {% assign sorted_posts = site.cocktails | sort: "event-date" | reverse%}
+            {% for post in sorted_posts %}
+            <li class="post">
+                <a href="{{ post.url }}">
+                <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
+                <div>
+                    <div class="post-title">
+                        {{ post.title | truncate: 50, "..." }}<br>
+                    </div>
+                    <div class="post-date">
+                        {{post.event-date  | date: date_format}}
+                    </div>
                 </div>
-                <div class="post-date">
-                    {{post.event-date  | date: date_format}}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+        <button class="scroll-button scroll-right" onclick="scrollRight('cocktails')">&#10095;</button>
+    </div>
+
+    <!-- <div class="container">
+        <h1>Distinguished Lectures</h1>
+        <button class="scroll-button scroll-left" onclick="scrollLeft()">&#10094;</button>
+        <ul class="post-list" id="postList">
+            {% for post in site.lectures %}
+            <li class="post">
+                <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
+                <div class="post-title"><a href="{{ post.url }}" style="color: white; text-decoration: none;">{{ post.title }}</a></div>
+            </li>
+            {% endfor %}
+        </ul>
+        <button class="scroll-button scroll-right" onclick="scrollRight()">&#10095;</button>
+    </div> -->
+
+    <div class="container">
+        <h1>Other Events</h1>
+        <button class="scroll-button scroll-left" onclick="scrollLefty('discevents')">&#10094;</button>
+        <ul class="post-list" id="discevents">
+            {% assign sorted_posts = site.discevents | sort: "event-date" | reverse%}
+            {% for post in sorted_posts %}
+            <li class="post">
+                <a href="{{ post.url }}">
+                <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
+                <div>
+                    <div class="post-title">
+                        {{ post.title | truncate: 50, "..." }}<br>
+                    </div>
+                    <div class="post-date">
+                        {{post.event-date  | date: date_format}}
+                    </div>
                 </div>
-            </div>
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
-    <button class="scroll-button scroll-right" onclick="scrollRight('cocktails')">&#10095;</button>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+        <button class="scroll-button scroll-right" onclick="scrollRight('discevents')">&#10095;</button>
+    </div>
+
 </div>
-
-<!-- <div class="container">
-    <h1>Distinguished Lectures</h1>
-    <button class="scroll-button scroll-left" onclick="scrollLeft()">&#10094;</button>
-    <ul class="post-list" id="postList">
-        {% for post in site.lectures %}
-        <li class="post">
-            <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
-            <div class="post-title"><a href="{{ post.url }}" style="color: white; text-decoration: none;">{{ post.title }}</a></div>
-        </li>
-        {% endfor %}
-    </ul>
-    <button class="scroll-button scroll-right" onclick="scrollRight()">&#10095;</button>
-</div> -->
-
-<div class="container">
-    <h1>Other Events</h1>
-    <button class="scroll-button scroll-left" onclick="scrollLefty('discevents')">&#10094;</button>
-    <ul class="post-list" id="discevents">
-        {% assign sorted_posts = site.discevents | sort: "event-date" | reverse%}
-        {% for post in sorted_posts %}
-        <li class="post">
-            <a href="{{ post.url }}">
-            <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
-            <div>
-                <div class="post-title">
-                    {{ post.title | truncate: 50, "..." }}<br>
-                </div>
-                <div class="post-date">
-                    {{post.event-date  | date: date_format}}
-                </div>
-            </div>
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
-    <button class="scroll-button scroll-right" onclick="scrollRight('discevents')">&#10095;</button>
-</div>
-
-
 <script>
     function scrollLefty(id) {
         const postList = document.getElementById(id);
