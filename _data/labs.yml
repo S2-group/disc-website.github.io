@@ -5,9 +5,9 @@
   img: vu-abn.png
   img-width: 12rem
 
-- title: Lab
-  description: A collaboration between Schuberg Philis and the Vrije Universiteit Amsterdam
-  details: Lab is a collaboration between Schuberg Philis and the Vrije Universiteit Amsterdam.
-  contact: Prof. Dr. Patricia Lago p.lago@vu.nl (VU | S2 Research Group), Ilja Heitlager (Schuberg Philis | CIO )
-  img: vu-sbp.png
-  img-width: 12rem
+# - title: Lab
+#   description: A collaboration between Schuberg Philis and the Vrije Universiteit Amsterdam
+#   details: Lab is a collaboration between Schuberg Philis and the Vrije Universiteit Amsterdam.
+#   contact: Prof. Dr. Patricia Lago p.lago@vu.nl (VU | S2 Research Group), Ilja Heitlager (Schuberg Philis | CIO )
+#   img: vu-sbp.png
+#   img-width: 12rem
