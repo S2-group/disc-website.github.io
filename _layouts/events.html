@@ -51,11 +51,19 @@ layout: default
             position: absolute; /* Position title over the image */
             bottom: 0px; /* Position title closer to the bottom */
             color: white;
-            background-color: rgba(0, 71, 65, 0.7); /* Semi-transparent background for readability */
             text-align: top;
             text-decoration: none; 
             font-size: x-large;
             padding: 5px 10px;
+        }
+        .cocktail-post-title{
+            background-color: rgba(0, 29, 69, 0.4); /* Semi-transparent background for readability */
+        }
+        .lecture-post-title{
+            background-color: rgba(0, 71, 65, 0.7); /* Semi-transparent background for readability */
+        }
+        .other-post-title{
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
         }
         .post-date {
             width: 100%;
@@ -105,7 +113,7 @@ layout: default
                 <a href="{{ post.url }}">
                 <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
                 <div>
-                    <div class="post-title">
+                    <div class="post-title cocktail-post-title">
                         {{ post.title | truncate: 50, "..." }}<br>
                     </div>
                     <div class="post-date">
@@ -143,7 +151,7 @@ layout: default
                 <a href="{{ post.url }}">
                 <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
                 <div>
-                    <div class="post-title">
+                    <div class="post-title other-post-title">
                         {{ post.title | truncate: 50, "..." }}<br>
                     </div>
                     <div class="post-date">
