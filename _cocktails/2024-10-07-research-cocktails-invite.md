@@ -10,8 +10,6 @@ thumbnail-img: /assets/img/posts-screenshots/thumb-cocktails.jpeg
 
 **Invitation to a department-wide research cocktail about “Sustainability of Digital Technologies”**
 
-Dear colleagues,
-
 It is our great pleasure to **invite you to the upcoming DiSC research cocktail with the topic “Sustainability of Digital Technologies”.** We are excited to share that the cocktail will feature four speakers, who will reflect on the social, societal, technical, and environmental sustainability of technology. 
 
 **What are research cocktails?** Research cocktails are cross-disciplinary activities designed to establish and strengthen connections between researchers within the Computer Science department and beyond. Several years ago, the department conceived the research cocktails. We are now bringing them back to life under the umbrella of VU’s Digital Sustainability Center (DiSC), coordinated by Justus Bogner and Filip Ilievski.
@@ -34,12 +32,12 @@ It is our great pleasure to **invite you to the upcoming DiSC research cocktail 
 
 **When and where?** This event will take place on **Friday, November 15th, from 16:00 to around 19:00 in the NU building (room 3A-47).** 
 
-**How can I join?** If you would like to join us, please fill out the registration form by **October 20th:** <https://docs.google.com/forms/d/e/1FAIpQLSdODqdJVEy_n5RIDgX55ZQ9F15D6316Hu8CgtMb-MpUijtxkg/viewform>
+**How can I join?** If you would like to join us, please fill out the registration form. 
+<https://docs.google.com/forms/d/e/1FAIpQLSdODqdJVEy_n5RIDgX55ZQ9F15D6316Hu8CgtMb-MpUijtxkg/viewform>
 
 If you have any questions, concerns, or suggestions, please feel free to reach out to us!
 
 Best wishes,
 
-Justus and Filip
-
+DiSC Team
 <!-- ![](/assets/img/posts-screenshots/cocktail.jpeg) -->
