@@ -15,7 +15,7 @@ ext-js:
   <div id="portfolio">
     <div id="shinyapps-big"> 
       {% for lab in site.data.labs %}
-	    <div class="shinyapp" style="background-color:#e6ffe7; ">
+	    <div class="shinyapp" style="background-color:#e6ffe7; margin-top:10px; ">
           <a class="applink" href="{{ lab.url }}" target="_blank">
             <img src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" alt="" />
             <div class="apptitle">{{ lab.title }}</div>
