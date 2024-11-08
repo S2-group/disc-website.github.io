@@ -1,0 +1,51 @@
+  - id: Trinh2024Sustainability
+    authors: "E. Trinh, M. Funke, P. Lago, J. Bogner"
+    title: "Sustainability Integration of Artificial Intelligence into the Software Development Life Cycle"
+    booktitle: "2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)"
+    location: "Hyderabad, India"
+    year: 2024
+    pages: "199-206"
+    doi: "10.1109/ICSA-C63560.2024.00044"
+    url: "https://doi.org/10.1109/ICSA-C63560.2024.00044"
+
+  - id: Kumar2024Balancing
+    authors: "A. N. P. Kumar, J. Bogner, M. Funke, P. Lago"
+    title: "Balancing Progress and Responsibility: A Synthesis of Sustainability Trade-Offs of AI-Based Systems"
+    booktitle: "2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)"
+    location: "Hyderabad, India"
+    year: 2024
+    pages: "207-214"
+    doi: "10.1109/ICSA-C63560.2024.00045"
+    url: "https://doi.org/10.1109/ICSA-C63560.2024.00045"
+
+  - id: Funke2024Energy
+    authors: "M. Funke, P. Lago, E. Adenekan, I. Malavolta, I. Heitlager"
+    title: "Experimental Evaluation of Energy Efficiency Tactics in Industry: Results and Lessons Learned"
+    booktitle: "2024 IEEE 21st International Conference on Software Architecture (ICSA)"
+    location: "Hyderabad, India"
+    year: 2024
+    pages: "170-181"
+    doi: "10.1109/ICSA59870.2024.00024"
+    url: "https://doi.org/10.1109/ICSA59870.2024.00024"
+
+  - id: Funke2023Carving
+    authors: "M. Funke, P. Lago"
+    title: "Carving Sustainability into Architecture Knowledge Practice"
+    editor: "B. Tekinerdogan, C. Trubiani, C. Tibermacine, P. Scandurra, C.E. Cuesta"
+    booktitle: "Software Architecture. ECSA 2023"
+    series: "Lecture Notes in Computer Science"
+    volume: 14212
+    publisher: "Springer, Cham"
+    year: 2023
+    doi: "10.1007/978-3-031-42592-9_4"
+    url: "https://doi.org/10.1007/978-3-031-42592-9_4"
+
+  - id: Funke2023Variability
+    authors: "M. Funke, P. Lago, R. Verdecchia"
+    title: "Variability Features: Extending Sustainability Decision Maps via an Industrial Case Study"
+    booktitle: "2023 IEEE 20th International Conference on Software Architecture Companion (ICSA-C)"
+    location: "L'Aquila, Italy"
+    year: 2023
+    pages: "1-7"
+    doi: "10.1109/ICSA-C57050.2023.00024"
+    url: "https://doi.org/10.1109/ICSA-C57050.2023.00024"

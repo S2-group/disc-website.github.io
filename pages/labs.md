@@ -16,13 +16,13 @@ ext-js:
     <div id="shinyapps-big"> 
       {% for lab in site.data.labs %}
 	    <div class="shinyapp" style="background-color:#e6ffe7; ">
-          <!-- <a class="applink" href="{{ lab.url }}" target="_blank"> -->
+          <a class="applink" href="{{ lab.url }}" target="_blank">
             <img class="appimg" src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" style="width: {{ lab.img-width }};" alt="" />
             <div class="apptitle">{{ lab.title }}</div>
             <div class="appdesc">{{ lab.description }}</div>
             <div class="appdesc">{{ lab.details }}</div>
             <div class="appdesc">{{ lab.contact }}</div>
-          <!-- </a> -->
+          </a>
         </div>
 	  {% endfor %}
     </div>

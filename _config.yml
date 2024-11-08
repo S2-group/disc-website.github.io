@@ -246,14 +246,16 @@ collections:
     layout: "post"
   cocktails:
     output: true
-    layout: "events"
+    layout: "cocktails"
   lectures:
     output: true
-    layout: "events"
+    layout: "lectures"
   discevents:
     output: true
-    layout: "events"
-
+    layout: "discevents"
+  labs:
+    output: true
+    layout: "labs"
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
