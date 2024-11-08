@@ -6,7 +6,7 @@
     year: 2024
     pages: "199-206"
     doi: "10.1109/ICSA-C63560.2024.00044"
-    url: "https://doi.org/10.1109/ICSA-C63560.2024.00044"
+    url: "https://hdl.handle.net/1871.1/7a034b21-6b69-4ca5-8604-897687c7241c"
 
   - id: Kumar2024Balancing
     authors: "A. N. P. Kumar, J. Bogner, M. Funke, P. Lago"
@@ -16,7 +16,7 @@
     year: 2024
     pages: "207-214"
     doi: "10.1109/ICSA-C63560.2024.00045"
-    url: "https://doi.org/10.1109/ICSA-C63560.2024.00045"
+    url: "https://doi.org/10.48550/arXiv.2404.03995"
 
   - id: Funke2024Energy
     authors: "M. Funke, P. Lago, E. Adenekan, I. Malavolta, I. Heitlager"
@@ -26,7 +26,7 @@
     year: 2024
     pages: "170-181"
     doi: "10.1109/ICSA59870.2024.00024"
-    url: "https://doi.org/10.1109/ICSA59870.2024.00024"
+    url: "https://hdl.handle.net/1871.1/df252e29-d037-441d-9731-6bd140b6f30e"
 
   - id: Funke2023Carving
     authors: "M. Funke, P. Lago"
@@ -38,7 +38,7 @@
     publisher: "Springer, Cham"
     year: 2023
     doi: "10.1007/978-3-031-42592-9_4"
-    url: "https://doi.org/10.1007/978-3-031-42592-9_4"
+    url: "https://hdl.handle.net/1871.1/7c56f11d-2fbd-4d76-9821-5eb231c67cc6"
 
   - id: Funke2023Variability
     authors: "M. Funke, P. Lago, R. Verdecchia"
@@ -48,4 +48,4 @@
     year: 2023
     pages: "1-7"
     doi: "10.1109/ICSA-C57050.2023.00024"
-    url: "https://doi.org/10.1109/ICSA-C57050.2023.00024"
+    url: "https://hdl.handle.net/1871.1/65b673d1-1fe4-4d58-bbcd-29724f91c1e9"
