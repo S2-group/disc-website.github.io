@@ -10,7 +10,7 @@ subtitle: A collaboration between ABN AMRO and the Vrije Universiteit Amsterdam
 Sustainable IT - Lab is a collaboration between ABN AMRO and the Vrije Universiteit Amsterdam. This collaboration allows ABN AMRO software architects and decision makers to work closer with software sustainability researchers in academia, contribute to education and science, and collaborate in PhD- and Master-level research. Academics in turn gain a better understanding of how real-world software can be measured and re-designed to achieve sustainability goals.
 
 **Contact:**
-Prof. Dr. Patricia Lago p.lago@vu.nl (VU | S2 Research Group), Wiebren van der Zee (ABN AMRO | CIO – Sustainable IT)
+Prof. Dr. Patricia Lago p.lago@vu.nl (VU | S2 Research Group), Wiebren van der Zee (ABN AMRO | CIO office – Domain Expert – Sustainable IT)
 
 _____
 
