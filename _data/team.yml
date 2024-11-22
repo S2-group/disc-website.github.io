@@ -1,0 +1,29 @@
+
+#Director
+- name: Prof. Dr. Patricia Lago
+  image: /assets/img/team/PatriciaLago.jpg
+  affiliation: Software and Sustainability Research Group
+  role: Director
+#Scientific Coordination
+- name: Dr. Justus Bogner
+  image: /assets/img/team/justus-bogner.jpg
+  affiliation: Software and Sustainability Research Group
+  role: Scientific Coordinator
+- name: Dr. Filip Ilievski
+  image: /assets/img/team/filip-ilievski.jpg
+  affiliation: Learning and Reasoning Group
+  role: Scientific Coordinator
+#Outreach
+- name: Dr. Emma Beauxis-Aussalet
+  image: /assets/img/team/emma.jpg
+  affiliation: User-Centric Data Science Group
+  role: Outreach and Valorisation
+- name: Dr. Tiziano De Matteis
+  image: /assets/img/team/tiziano.jpg
+  affiliation: "@Large Research Group"
+  role: Outreach and Valorisation
+#Website
+- name: Iffat Fatima
+  image: /assets/img/team/IffatFatima.jpeg
+  affiliation: Software and Sustainability Research Group
+  role: Webmaster

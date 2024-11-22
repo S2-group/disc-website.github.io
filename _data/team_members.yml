@@ -1,21 +1,30 @@
+
+# Participating Researchers
 - name: Dr. Ilias Gerostathopoulos
   image: /assets/img/team/ilias.jpeg
-  affiliation: Vrije Universiteit Amsterdam
+  affiliation: Software and Sustainability Research Group
+  role: Participating Researcher
 - name: Iffat Fatima
-  image: /assets/img/team/IffatFatima.jpg
-  affiliation: Vrije Universiteit Amsterdam
+  image: /assets/img/team/IffatFatima.jpeg
+  affiliation: Software and Sustainability Research Group
+  role: Participating Researcher
 - name: Markus Funke
   image: /assets/img/team/MarkusFunke.jpeg
-  affiliation: Vrije Universiteit Amsterdam
+  affiliation: Software and Sustainability Research Group
+  role: Participating Researcher
 - name: Dr. Victor de Boer
   image: /assets/img/team/VictordeBoer.jpeg
-  affiliation: Vrije Universiteit Amsterdam
+  affiliation: User-Centric Data Science Group
+  role: Participating Researcher
 - name: Roderick van der Weerdt
   image: /assets/img/team/RoderickvanderWeerdt.jpeg
-  affiliation: Vrije Universiteit Amsterdam
+  affiliation: User-Centric Data Science Group
+  role: Participating Researcher
 - name: Dr. Ronald Siebes
   image: /assets/img/team/RonaldSiebes.jpeg
-  affiliation: Vrije Universiteit Amsterdam
+  affiliation: User-Centric Data Science Group
+  role: Participating Researcher
 - name: Prof. Dr. Alexandru Iosup
   image: /assets/img/team/AlexandruIosup.jpeg
-  affiliation: Vrije Universiteit Amsterdam
+  affiliation: "@Large Research Group"
+  role: Participating Researcher

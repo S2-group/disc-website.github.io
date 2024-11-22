@@ -41,20 +41,29 @@
 }
 
 .team-member {
-    text-align: center;
+    text-align: top;
 }
-
-.team-member-role {
+.team-member-name {
     font-size: larger;
+    margin-top: 10px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+.team-member-role {
+    font-size: large;
+    font-family: "Roboto", sans-serif;
 }
 
 .team-member-affiliation {
     font-size: medium;
+    font-family: "Roboto", sans-serif;
+    color: #484747;
 }
 
 .team-member-container {
     display: inline-block;
-    width: 220px;
+    vertical-align: top;
+    width: 230px;
     margin-left: 30px;
 }
 
