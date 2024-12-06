@@ -20,7 +20,7 @@ ext-js:
             <img src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" alt="" />
             <div class="apptitle">{{ lab.title }}</div>
             <div class="appdesc">{{ lab.description }}</div>
-            <div class="appdesc">{{ lab.details }}</div>
+            <!-- <div class="appdesc">{{ lab.details }}</div> -->
             <div class="appdesc">{{ lab.contact }}</div>
           </a>
         </div>
