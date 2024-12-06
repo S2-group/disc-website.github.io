@@ -18,7 +18,7 @@ _____
 <h3>Theses</h3><br>
         <button class="scroll-button scroll-left" onclick="scrollLefty('thesis')">&#10094;</button>
         <ul class="post-list" id="thesis">
-            {% assign sorted_posts = site.data.theses | sort: "year" | reverse%}
+            {% assign sorted_posts = site.data.abn_theses | sort: "year" | reverse%}
             {% for post in sorted_posts %}
             <li class="post">
                 <!-- <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}"> -->
@@ -35,7 +35,7 @@ _____
 <h3>Research Projects</h3><br>
         <button class="scroll-button scroll-left" onclick="scrollLefty('rps')">&#10094;</button>
         <ul class="post-list" id="rps">
-            {% assign sorted_posts = site.data.research_projects | sort: "year" | reverse%}
+            {% assign sorted_posts = site.data.abn_research_projects | sort: "year" | reverse%}
             {% for post in sorted_posts %}
             <li class="post">
                 <!-- <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}"> -->
@@ -53,7 +53,7 @@ _____
         <h3>Publications</h3><br>
         <button class="scroll-button scroll-left" onclick="scrollLefty('pubs')">&#10094;</button>
         <ul class="post-list" id="pubs">
-            {% assign sorted_posts = site.data.publications | sort: "year" | reverse%}
+            {% assign sorted_posts = site.data.abn_publications | sort: "year" | reverse%}
             {% for post in sorted_posts %}
             <li class="post">
                 <a href="{{ post.url }}">

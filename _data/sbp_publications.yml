@@ -1,0 +1,29 @@
+- id: Funke2024EnergyEfficiency
+  authors: "M. Funke, P. Lago, E. Adenekan, I. Malavolta, I. Heitlager"
+  title: "Experimental Evaluation of Energy Efficiency Tactics in Industry: Results and Lessons Learned"
+  booktitle: "2024 IEEE 21st International Conference on Software Architecture (ICSA)"
+  location: ""
+  year: 2024
+  pages: "170-181"
+  doi: "10.1109/ICSA59870.2024.00024"
+  url: "https://hdl.handle.net/1871.1/df252e29-d037-441d-9731-6bd140b6f30e"
+
+- id: Banijamali2024KPIs
+  authors: "P. Banijamali, I. Fatima, P. Lago, I. Heitlager"
+  title: "Unveiling Key Performance Indicators for the Energy Efficiency of Cloud Data Storage"
+  booktitle: "2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)"
+  location: ""
+  year: 2024
+  pages: "222-229"
+  doi: "10.1109/ICSA-C63560.2024.00047"
+  url: "https://hdl.handle.net/1871.1/0684d599-75cf-4a3c-b910-ebb03d645e9d"
+
+- id: Vos2022EnergyEfficiency
+  authors: "S. Vos, P. Lago, R. Verdecchia, I. Heitlager"
+  title: "Architectural Tactics to Optimize Software for Energy Efficiency in the Public Cloud"
+  booktitle: "2022 International Conference on ICT for Sustainability (ICT4S)"
+  location: ""
+  year: 2022
+  pages: "77-87"
+  doi: "10.1109/ICT4S55073.2022.00019"
+  url: "https://hdl.handle.net/1871.1/b402bed2-9cb6-4ac5-804f-a0427965ab58"
