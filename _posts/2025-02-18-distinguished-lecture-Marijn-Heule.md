@@ -11,7 +11,9 @@ thumbnail-img: /assets/img/posts-screenshots/marjin-heule.jpeg
 ## Solving Mathematical Challenges with Symbolic AI
 
 **Speaker:** Marijn Heule, Carnegie Mellon University  
-**Date & Time:** Tuesday, 11 March 2025 10:30-12:00 AM
+
+**Date & Time:** Tuesday, 11 March 2025 10:30-12:00 AM 
+
 **Location:** HG-00C29 (Aurora), Hoofdgebouw VU, De Boelelaan 1105, Amsterdam
 
 ### About the Speaker
@@ -23,5 +25,3 @@ techniques to the Hadwiger-Nelson problem (chromatic number of the plane),
 optimal schemes for matrix multiplication, and the Collatz conjecture.
 
 Join us for an insightful discussion on the role of symbolic AI in solving mathematical challenges.
-
-For more information, visit [Marijn Heule's webpage](https://www.cs.cmu.edu/~mheule/).
