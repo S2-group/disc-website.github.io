@@ -4,7 +4,7 @@ title:  Distinguished Lecture by Marijn Heule
 subtitle: Solving Mathematical Challenges with Symbolic AI
 cover-img: /assets/img/posts-screenshots/lecture.jpg
 share-img: /assets/img/posts-screenshots/marjin-heule.jpeg
-thumbnail-img: /assets/img/posts-screenshots/marjin-heule.jpeg
+thumbnail-img: /assets/img/posts-screenshots/marjin-heule.jpg
 ---
 
 
