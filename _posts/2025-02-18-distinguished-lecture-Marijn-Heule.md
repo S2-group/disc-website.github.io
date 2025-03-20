@@ -5,6 +5,8 @@ subtitle: Solving Mathematical Challenges with Symbolic AI
 cover-img: /assets/img/posts-screenshots/lecture.jpg
 share-img: /assets/img/posts-screenshots/marjin-heule.jpeg
 thumbnail-img: /assets/img/posts-screenshots/marjin-heule.jpg
+event-type: distinguished-lecture
+event-date: 2025-03-11
 ---
 
 

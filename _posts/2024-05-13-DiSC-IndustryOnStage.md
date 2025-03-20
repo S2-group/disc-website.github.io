@@ -5,6 +5,8 @@ subtitle: Wednesday July 3rd, 15.00-17.00
 cover-img: /assets/img/posts-screenshots/disc-banner-industryonstage.png
 share-img: /assets/img/posts-screenshots/disc-social-industryonstage.png
 thumbnail-img: /assets/img/posts-screenshots/disc-thumb-industryonstage.png
+event-type: other
+event-date: 2024-07-03
 ---
 ### Save the Date - Industry on Stage
 

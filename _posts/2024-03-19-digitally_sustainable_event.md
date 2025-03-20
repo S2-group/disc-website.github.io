@@ -5,6 +5,8 @@ subtitle: Inspiration Meetup on Fri 5 April 2024, 15:00-18:00
 cover-img: /assets/img/posts-screenshots/NU-window.webp
 share-img: /assets/img/posts-screenshots/digitally-sustainable.png
 thumbnail-img: /assets/img/posts-screenshots/digitally-sustainable.png
+event-type: other
+event-date: 2024-04-05
 ---
 
 

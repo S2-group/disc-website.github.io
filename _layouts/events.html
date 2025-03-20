@@ -60,7 +60,7 @@ layout: default
             background-color: rgba(0, 29, 69, 0.4); /* Semi-transparent background for readability */
         }
         .lecture-post-title{
-            background-color: rgba(0, 71, 65, 0.7); /* Semi-transparent background for readability */
+            background-color: rgba(63, 0, 0, 0.46); /* Semi-transparent background for readability */
         }
         .other-post-title{
             background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
@@ -102,64 +102,84 @@ layout: default
     {% include header.html type="page" %}
 
     {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
+    <div class="container-md">
+        <div class="container">
+            <h1>Distinguished Lectures</h1>
+            <button class="scroll-button scroll-left" onclick="scrollLefty('distinguished-lecture')">&#10094;</button>
+            <ul class="post-list" id="distinguished-lecture">
+                {% assign sorted_posts = site.posts | sort: "event-date" | reverse%}
+                {% for post in sorted_posts %}
+                    {% if post.event-type == "distinguished-lecture" %}
+                        <li class="post">
+                            <a href="{{ post.url }}">
+                            <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
+                            <div>
+                                <div class="post-title lecture-post-title">
+                                    {{ post.title | truncate: 50, "..." }}<br>
+                                </div>
+                                <div class="post-date">
+                                    {{post.event-date  | date: date_format}}
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <button class="scroll-button scroll-right" onclick="scrollRight('distinguished-lecture')">&#10095;</button>
+        </div>
+        
 <div class="container-md">
     <div class="container">
         <h1>Research Cocktails</h1>
         <button class="scroll-button scroll-left" onclick="scrollLefty('cocktails')">&#10094;</button>
         <ul class="post-list" id="cocktails">
-            {% assign sorted_posts = site.cocktails | sort: "event-date" | reverse%}
+            {% assign sorted_posts = site.posts | sort: "event-date" | reverse%}
             {% for post in sorted_posts %}
-            <li class="post">
-                <a href="{{ post.url }}">
-                <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
-                <div>
-                    <div class="post-title cocktail-post-title">
-                        {{ post.title | truncate: 50, "..." }}<br>
-                    </div>
-                    <div class="post-date">
-                        {{post.event-date  | date: date_format}}
-                    </div>
-                </div>
-                </a>
-            </li>
+                {% if post.event-type == "cocktail" %}
+                    <li class="post">
+                        <a href="{{ post.url }}">
+                        <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
+                        <div>
+                            <div class="post-title cocktail-post-title">
+                                {{ post.title | truncate: 50, "..." }}<br>
+                            </div>
+                            <div class="post-date">
+                                {{post.event-date  | date: date_format}}
+                            </div>
+                        </div>
+                        </a>
+                    </li>
+                {% endif %}
             {% endfor %}
         </ul>
         <button class="scroll-button scroll-right" onclick="scrollRight('cocktails')">&#10095;</button>
     </div>
 
-    <!-- <div class="container">
-        <h1>Distinguished Lectures</h1>
-        <button class="scroll-button scroll-left" onclick="scrollLeft()">&#10094;</button>
-        <ul class="post-list" id="postList">
-            {% for post in site.lectures %}
-            <li class="post">
-                <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
-                <div class="post-title"><a href="{{ post.url }}" style="color: white; text-decoration: none;">{{ post.title }}</a></div>
-            </li>
-            {% endfor %}
-        </ul>
-        <button class="scroll-button scroll-right" onclick="scrollRight()">&#10095;</button>
-    </div> -->
+   
 
     <div class="container">
         <h1>Other Events</h1>
         <button class="scroll-button scroll-left" onclick="scrollLefty('discevents')">&#10094;</button>
         <ul class="post-list" id="discevents">
-            {% assign sorted_posts = site.discevents | sort: "event-date" | reverse%}
+            {% assign sorted_posts = site.posts | sort: "event-date" | reverse%}
             {% for post in sorted_posts %}
-            <li class="post">
-                <a href="{{ post.url }}">
-                <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
-                <div>
-                    <div class="post-title other-post-title">
-                        {{ post.title | truncate: 50, "..." }}<br>
-                    </div>
-                    <div class="post-date">
-                        {{post.event-date  | date: date_format}}
-                    </div>
-                </div>
-                </a>
-            </li>
+                {% if post.event-type == "other" %}
+                    <li class="post">
+                        <a href="{{ post.url }}">
+                        <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}">
+                        <div>
+                            <div class="post-title other-post-title">
+                                {{ post.title | truncate: 50, "..." }}<br>
+                            </div>
+                            <div class="post-date">
+                                {{post.event-date  | date: date_format}}
+                            </div>
+                        </div>
+                        </a>
+                    </li>
+                {% endif %}
             {% endfor %}
         </ul>
         <button class="scroll-button scroll-right" onclick="scrollRight('discevents')">&#10095;</button>

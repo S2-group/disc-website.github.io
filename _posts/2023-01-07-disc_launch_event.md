@@ -5,6 +5,8 @@ subtitle: Wednesday January 18th, 14.00-17.00
 cover-img: /assets/img/posts-screenshots/launchEvent2.jpg
 share-img: /assets/img/posts-screenshots/launchEvent2.jpg
 thumbnail-img: /assets/img/posts-screenshots/launchEvent3.jpg
+event-type: other
+event-date: 2024-01-18
 ---
 
 The launch event of the VU Digital Sustainability Center will take place on January 18th at 14:00-17:00, followed by 

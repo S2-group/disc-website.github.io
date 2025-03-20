@@ -5,6 +5,8 @@ subtitle: Research Cocktail
 cover-img: /assets/img/posts-screenshots/cocktail.jpeg
 share-img: /assets/img/posts-screenshots/cocktail.jpeg
 thumbnail-img: /assets/img/posts-screenshots/thumb-cocktails.jpeg
+event-type: cocktail
+event-date: 2024-11-15
 ---
 
 **Invitation to a department-wide research cocktail about “Sustainability of Digital Technologies”**
