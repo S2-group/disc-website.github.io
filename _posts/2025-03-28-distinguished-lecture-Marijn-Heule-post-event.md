@@ -13,4 +13,8 @@ Last week, we kicked off our Distinguished Lecture on Sustainability Series with
 
 Missed it? No worries—the recording is available [here](https://www.youtube.com/watch?v=y5u5CJXNnDs)
 
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/y5u5CJXNnDs?si=fzEGtYAL9wGVmHel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+				
 Stay tuned for our next distinguished lecture!
