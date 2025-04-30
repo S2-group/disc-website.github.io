@@ -12,11 +12,10 @@ event-date: 2025-06-05
 ## Event Details
 
 **Speaker:** Prof. em. Dr. Lorenz Hilty, University of Zurich   
+**Title:** The Creeping Disempowerment of Users in the Digital Transformation and its Connection to (Un)Sustainable Development     
 **Date:** Thursday, June 5, 2025    
 **Time:** 15:30 – 16:30 (with drinks & snacks afterwards)     
 **Location:** Theater 8 NU-4C47, NU Building, VU Amsterdam, De Boelelaan 1111, 1081 HV Amsterdam
-
-**Title:** The Creeping Disempowerment of Users in the Digital Transformation and its Connection to (Un)Sustainable Development
 
 **Register [here](https://forms.gle/PxYoPzQrR5kuywm96) to reserve your spot.** 
 
