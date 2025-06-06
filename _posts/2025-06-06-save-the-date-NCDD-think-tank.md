@@ -10,8 +10,9 @@ event-date: 2025-09-10
 ---
 
 ### Save the date for the NCDD Think Tank hosted by DiSC 
-<br>
-### Program Details
+
+
+#### Program Details
 
 📅 **Date:** 10 September 2025  
 🕒 **Time:** 13:30 – 17:00 *(followed by networking drinks)*  
@@ -21,16 +22,12 @@ event-date: 2025-09-10
 **Please register using [this form](https://forms.gle/59iK85riuBVNajSY8)**
 
 
-<br>
+#### Preparation (for all Working Groups)
 
-### Preparation (for all Working Groups)
 - What are the results of the past year?
 - What are the open challenges?
 
-<br>
-
-### Meeting Details
-**Invitees:** 2 representatives per Working Group
+Invitees: 2 representatives per Working Group
 
 Topics for discussion:
 - ✅ *How to harmonize the results?*  
