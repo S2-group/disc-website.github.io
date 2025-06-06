@@ -3,8 +3,8 @@ layout: post
 title: Save the Date - NCDD Think Tank
 subtitle: Wednesday September 10, 13.30-17.00
 cover-img: /assets/img/posts-screenshots/cover-save-the-date-ncdd-10-09-2025.png
-share-img: /assets/img/posts-screenshots/thumb-save-the-date-ncdd-10-09-2025.png
-thumbnail-img: /assets/img/posts-screenshots/thumb-save-the-date-ncdd-10-09-2025.png
+share-img: /assets/img/posts-screenshots/save-the-date-with-qr-ncdd-think-tank.png
+thumbnail-img: /assets/img/posts-screenshots/save-the-date-with-qr-ncdd-think-tank.png
 event-type: other
 event-date: 2025-09-10
 ---
