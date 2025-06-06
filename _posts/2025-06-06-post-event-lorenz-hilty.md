@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/posts-screenshots/lorenz-hilty-presenting.jpg
 ---
 ## The Creeping Disempowerment of Users in the Digital Transformation and its Connection to (Un)Sustainable Development
 
-On the 5th June, 2025, we continued our Distinguished Lecture Series with a thought-provoking talk by **Prof. em. Dr. Lorenz Hilty** from the University of Zurich.
+On the 5th of June, 2025, we continued our Distinguished Lecture Series with a thought-provoking talk by **Prof. em. Dr. Lorenz Hilty** from the University of Zurich.
 
 His lecture covered the following themes: 
 
