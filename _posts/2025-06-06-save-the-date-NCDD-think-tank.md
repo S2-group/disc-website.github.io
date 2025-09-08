@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save the Date - NCDD Think Tank
-subtitle: Wednesday September 10, 13.30-17.00
+subtitle: Wednesday September 10, 14.30-17.00
 cover-img: /assets/img/posts-screenshots/cover-save-the-date-ncdd-10-09-2025.png
 share-img: /assets/img/posts-screenshots/save-the-date-with-qr-ncdd-think-tank.png
 thumbnail-img: /assets/img/posts-screenshots/save-the-date-with-qr-ncdd-think-tank.png
@@ -15,7 +15,7 @@ event-date: 2025-09-10
 #### Program Details
 
 📅 **Date:** 10 September 2025  
-🕒 **Time:** 13:30 – 17:00 *(followed by networking drinks)*  
+🕒 **Time:** 14:30 – 17:00 *(followed by networking drinks)*  
 📍 **Location:** [New University Building, Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/more-about/new-university-building) 
 
 
