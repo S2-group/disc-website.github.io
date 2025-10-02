@@ -1,3 +1,7 @@
+- title: 'Software Sustainability: An Annotated Bibliography'
+  description: Due to the diversity of research teams, experimental setups, methodological frameworks, tools, and the emerging nature of the field, navigating the Software Sustainability domain can be a daunting task. Here, we provide a conceptual compass to help readers navigate the landscape of Software Sustainability.
+  url: /assets/docs/Software_Sustainability_Annotated_Bibliography.pdf
+  img: SS_AnnotatedBib.png
 - title: 'Solving Mathematical Challenges with Symbolic AI by Marijn Heule from Carnegie Mellon University'
   description: Progress in symbolic AI has enabled the verification of complex systems and the resolution of long-standing open questions in mathematics. This talk will highlight some successes in AI-based computer-aided mathematics, including computing Schur number five, resolving Keller’s conjecture, and solving the Empty Hexagon problem. 
   url: https://youtu.be/y5u5CJXNnDs?si=FaaUPo5YT7PsquIz
