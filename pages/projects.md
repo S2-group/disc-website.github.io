@@ -1,7 +1,8 @@
 ---
 layout: projects
 title: Projects
-subtitle: Our research at a glance
+subtitle: Research Projects that engage with different aspects of digital sustainability
+
 css:
 - /assets/css/index.css
 ext-css:
