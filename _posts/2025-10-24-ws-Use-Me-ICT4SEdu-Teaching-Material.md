@@ -10,24 +10,13 @@ event-date: 2025-10-21
 ---
 
 
-Vrije Universiteit Amsterdam recently hosted a two-day hybrid workshop 'Use-Me ICT4S Education Material'. The workshop brought together educationists and researchers to explore innovative ways to reuse teaching materials and integrate sustainability into Information and Communication Technology (ICT) education.
+A two-day hybrid workshop 'Use-Me ICT4S Education Material' took place at Vrije Universitiet Amsterdam. The workshop brought together educationists and researchers to explore innovative ways to reuse teaching materials and integrate sustainability into Information and Communication Technology (ICT) education.
 
 The aim of the workshop was to develop a shared and open-access structure that supports educators in embedding sustainability principles into their courses. This structure is designed to be flexible and adaptable, acknowledging that approaches to sustainability can vary across disciplines and teaching contexts.
 
-Day 1 began with participants addressing the guiding question: “What does someone need to include sustainability in a course?” To explore this, participants created information cards describing their teaching practices by answering three core questions:
+Over two days, participants engaged in a series of collaborative sessions focused on exploring how sustainability can be effectively integrated into ICT education. Through group discussions and interactive exercises, they shared experiences, identified common challenges, and exchanged ideas for developing practical approaches to sustainability-focused teaching.
 
-What are you teaching?
-
-How are you teaching it?
-
-How do you assess what you taught?
-
-These cards captured a wide range of educational experiences and examples of integrating sustainability within ICT-related subjects.
-
-On Day 2, participants collaborated in groups to review and analyze the cards developed by others. The goal was to identify useful patterns and insights that could contribute to a consensus-based framework—a resource that would be both practical and accessible for educators looking to embed sustainability in their own teaching.
-
-The final outputs, including the information cards and other reusable teaching materials, will be made open access to encourage continued collaboration and innovation among educators and researchers working toward sustainability-driven education in ICT.
-
+The workshop concluded with a collective vision to create open-access, reusable teaching materials that can support educators and researchers in embedding sustainability across ICT and related disciplines.
 
 **Pariticipants** 
 Patricia Lago, Michael Wahler, Elina Eriksson , Birgit Penzenstadler, Colin Venter, Birgit Krogstie, Andreas Fritsch, Göktuğ Gençkaya, Adrian Friday, Ian Brooks
