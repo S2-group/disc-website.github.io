@@ -1,7 +1,7 @@
 ---
 layout: post
-title: VU hosts “Use-Me ICT4S Education Material” Workshop
-subtitle: Workshop to develop open access reuseable resources to help integrate sustainability into ICT curricula.
+title: “Use-Me ICT4S Education Material” Workshop
+subtitle: A workshop to develop open access reuseable resources to help integrate sustainability into ICT curricula.
 cover-img: /assets/img/posts-screenshots/day-2-cards-summarizing.jpg
 share-img: /assets/img/posts-screenshots/cover-use-me-workshop.png
 thumbnail-img: /assets/img/posts-screenshots/day-1-room.jpg
