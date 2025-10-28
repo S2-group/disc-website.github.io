@@ -9,7 +9,7 @@ event-type: cocktail
 event-date: 2024-11-15
 ---
 
-# 🧠 Post-Event Recap: DiSC Research Cocktail – Piloting Collaborations Through Theses
+## Post-Event Recap: DiSC Research Cocktail – Piloting Collaborations Through Theses
 
 Last week’s DiSC Research Cocktail brought together an inspiring mix of researchers with ideas, and collaboration opportunities across the VU Computer Science department.  
 
@@ -17,7 +17,7 @@ The event ran from 16:00 to 17:30, followed by an informal borrel with drinks an
 
 ---
 
-## 🗓️ Event Highlights
+### Event Highlights
 The session opened with a brief introduction to DiSC and the Research Cocktail initiative, followed by a rapid series of engaging presentations. Each speaker had 4 minutes and 3 slides to showcase:
 
 1. Examples of successful cross-group or industry thesis collaborations  
@@ -26,7 +26,7 @@ The session opened with a brief introduction to DiSC and the Research Cocktail i
 
 ---
 
-## 🎤 Speakers
+### Speakers
 The event featured insightful presentations from representatives of the following research groups:
 
 - Mark Hoogendoorn - Quantitative Data Analytics (QDA) Group
@@ -46,7 +46,7 @@ The event concluded with an open discussion, where participants exchanged ideas 
 
 ---
 
-## 📑 Presentation Slides
-All presentation slides are available [here](https://example.com/slides-link)
+### Presentation Slides
+All presentation slides are available [here](/assets/docs/2025-10-research-cocktail-minute-madness.pdf)
 
 ---
