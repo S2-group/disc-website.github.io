@@ -6,7 +6,7 @@ cover-img: /assets/img/posts-screenshots/cocktail.jpeg
 share-img: /assets/img/posts-screenshots/cocktail.jpeg
 thumbnail-img: /assets/img/posts-screenshots/thumb-cocktails.jpeg
 event-type: cocktail
-event-date: 2024-11-15
+event-date: 2025-10-24
 ---
 
 ## Post-Event Recap: DiSC Research Cocktail – Piloting Collaborations Through Theses
@@ -44,9 +44,6 @@ The event featured insightful presentations from representatives of the followin
 
 The event concluded with an open discussion, where participants exchanged ideas on interdisciplinary thesis supervision, shared collaboration challenges, and explored ways to build stronger research connections across groups.
 
----
-
-### Presentation Slides
 All presentation slides are available [here](/assets/docs/2025-10-research-cocktail-minute-madness.pdf)
 
 ---
