@@ -2,9 +2,9 @@
 layout: post
 title:  Piloting Collaborations Through Theses
 subtitle: Research Cocktail
-cover-img: /assets/img/posts-screenshots/cocktail.jpeg
-share-img: /assets/img/posts-screenshots/cocktail.jpeg
-thumbnail-img: /assets/img/posts-screenshots/thumb-cocktails.jpeg
+cover-img: /assets/img/posts-screenshots/rc-24-10-2025-cover.jpjpgeg
+share-img: /assets/img/posts-screenshots/rc-24-10-2025-thumb-collage.png
+thumbnail-img: /assets/img/posts-screenshots/rc-24-10-2025-thumb.png
 event-type: cocktail
 event-date: 2025-10-24
 ---
@@ -15,7 +15,6 @@ Last week’s DiSC Research Cocktail brought together an inspiring mix of resear
 
 The event ran from 16:00 to 17:30, followed by an informal borrel with drinks and snacks creating a perfect setting for continuing discussions and sparking new research connections.
 
----
 
 ### Event Highlights
 The session opened with a brief introduction to DiSC and the Research Cocktail initiative, followed by a rapid series of engaging presentations. Each speaker had 4 minutes and 3 slides to showcase:
@@ -24,7 +23,6 @@ The session opened with a brief introduction to DiSC and the Research Cocktail i
 2. Lessons learned and best practices for effective research partnerships  
 3. Ideas for future multi-group thesis topics for 2025/2026
 
----
 
 ### Speakers
 The event featured insightful presentations from representatives of the following research groups:
@@ -44,6 +42,6 @@ The event featured insightful presentations from representatives of the followin
 
 The event concluded with an open discussion, where participants exchanged ideas on interdisciplinary thesis supervision, shared collaboration challenges, and explored ways to build stronger research connections across groups.
 
-All presentation slides are available [here](/assets/docs/2025-10-research-cocktail-minute-madness.pdf)
+All presentation slides are available [here](/assets/docs/2025-10-research-cocktail-minute-madness.pdf). Below are a few highlights from the event
 
----
+![img](/assets/img/posts-screenshots/rc-24-10-2025-collage.png)
