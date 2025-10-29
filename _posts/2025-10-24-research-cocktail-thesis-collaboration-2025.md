@@ -2,14 +2,14 @@
 layout: post
 title:  Piloting Collaborations Through Theses
 subtitle: Research Cocktail
-cover-img: /assets/img/posts-screenshots/rc-24-10-2025-cover.jpjpgeg
-share-img: /assets/img/posts-screenshots/rc-24-10-2025-thumb-collage.png
-thumbnail-img: /assets/img/posts-screenshots/rc-24-10-2025-thumb.png
+cover-img: /assets/img/cocktails/rc-24-10-2025-cover.jpg
+share-img: /assets/img/cocktails/rc-24-10-2025-collage.png
+thumbnail-img: /assets/img/cocktails/rc-24-10-2025-thumb.png
 event-type: cocktail
 event-date: 2025-10-24
 ---
 
-## Post-Event Recap: DiSC Research Cocktail – Piloting Collaborations Through Theses
+## Post-Event Recap
 
 Last week’s DiSC Research Cocktail brought together an inspiring mix of researchers with ideas, and collaboration opportunities across the VU Computer Science department.  
 
@@ -44,4 +44,4 @@ The event concluded with an open discussion, where participants exchanged ideas 
 
 All presentation slides are available [here](/assets/docs/2025-10-research-cocktail-minute-madness.pdf). Below are a few highlights from the event
 
-![img](/assets/img/posts-screenshots/rc-24-10-2025-collage.png)
+![img](/assets/img/cocktails/rc-24-10-2025-collage.png)
