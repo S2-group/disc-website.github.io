@@ -22,21 +22,21 @@ The tutorial aims at giving a sound foundation for digital architects/profession
 **Registration link:** [https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai](https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai
 )
 
-## About the Event
+### ABOUT THE EVENT
 In close collaboration with DANW, DiSC is organizing a tutorial on *Digital Architecture in the Age of GenAI*.
 
-### Target Audience
-**Practitioners**
+**Target Audience**
+Practitioners
 - Architecting agentic AI systems
 - Exploring GenAI for software architecture practices
 - Building AI-enabled software systems
 
-**Researchers**
+Researchers
 - Working at the intersection of software architecture (SA) and AI
 - Improving architecting practices for AI-enabled systems
 - Adopting LLMs for SA research
 
-## Agenda (13:30–18:30)
+### AGENDA
 
 **13:30–14:00 — Machine Learning (ML) and Software Architecture**
 - Synchronizing terminology
