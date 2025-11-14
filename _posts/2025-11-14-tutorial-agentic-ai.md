@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Tutorial - Digital Architecture in the Age of GenAI
+subtitle: Speakers -- Prof. Henry Muccini (University of L’Aquila, Italy), Dr. Karthik Vaidhyanathan (SERC, IIIT-Hyderabad, India)
 cover-img: /assets/img/posts-screenshots/tutorial-agenticai-cover.jpg
 share-img: /assets/img/posts-screenshots/tutorial-agenticai.png
 thumbnail-img: /assets/img/posts-screenshots/tutorial-agenticai.png
