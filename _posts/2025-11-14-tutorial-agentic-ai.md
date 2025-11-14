@@ -19,8 +19,7 @@ The tutorial aims at giving a sound foundation for digital architects/profession
 **Location:** Vrije Universiteit Amsterdam  
 **Available spots:** 35  
 **Registration deadline:** Saturday 20 December 2025  
-**Registration link:**  
-[https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai](https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai
+**Registration link:** [https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai](https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai
 )
 
 ## About the Event
