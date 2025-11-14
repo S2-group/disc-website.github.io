@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tutorial: Digital Architecture in the Age of GenAI
+title:  Tutorial - Digital Architecture in the Age of GenAI
 cover-img: /assets/img/posts-screenshots/tutorial-agenticai-cover.jpg
 share-img: /assets/img/posts-screenshots/tutorial-agenticai.png
 thumbnail-img: /assets/img/posts-screenshots/tutorial-agenticai.png
