@@ -15,11 +15,18 @@ The tutorial aims at giving a sound foundation for digital architects/profession
 ### IMPORTANT INFORMATION
 **Date:** Wednesday 28 January 2026  
 **Time:** 13:30–17:30 (followed by networking and drinks)  
-**Location:** Vrije Universiteit Amsterdam   
 **Available spots:** 35  
 **Registration deadline:** Saturday 20 December 2025  
 **Registration link:** [https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai](https://www.danw.nl/activiteiten/151/digital-architecture-in-the-age-of-genai
 )
+**Location**
+Directions tutorial:
+New University (NU) Building, Vrije Universiteit Amsterdam
+De Boelelaan 1111, 1081 HV Amsterdam
+Room:  NU-5A-57 (floor 5, corridor A, room 57)
+
+Practical information for directions can be found on [https://vu.nl/en/about-vu/practical-matters](https://vu.nl/en/about-vu/practical-matters)
+
 
 ### ABOUT THE EVENT
 In close collaboration with DANW, DiSC is organizing a tutorial on *Digital Architecture in the Age of GenAI*.
