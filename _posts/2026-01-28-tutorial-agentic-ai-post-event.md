@@ -19,4 +19,4 @@ The event concluded with networking and drinks, providing space for further disc
 
 The slides and other resources from the tutorial can be found [here](https://genai-da.vercel.app/)
 
-![Audience Image](/assets/img/posts-screenshots/agentic-ai-tutorial-collage.png)
+![Audience Image](/assets/img/posts-screenshots/agentic-ai-tutorial.jpg)
