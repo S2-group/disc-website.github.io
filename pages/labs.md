@@ -12,7 +12,7 @@ ext-js:
 ---
 
 <div id="portfolio-out">
-  <div id="portfolio">
+  <div id="portfolio" style="text-align:left; padding:40px;">
     <div id="shinyapps-big"> 
       {% for lab in site.data.labs %}
        {% if lab.status == "current"%}
@@ -28,14 +28,14 @@ ext-js:
         {% endif %}
 	  {% endfor %}
     </div>
-    <div id="shinyapps-big"> 
-    <h3 style="text-align:left; margin:20px; padding-top:10px;">Past Labs</h3>
+    <div style="text-align:left; margin-bottom:40px;">
+    <h3 style="text-align:left; margin-left:40px; padding-top:10px; padding-bottom:10px;">Past Labs</h3>
       {% for lab in site.data.labs %}
         {% if lab.status == "past"%}
-          <div class="shinyapp" style="margin-top:10px; ">
-            <a class="applink" href="{{ lab.url }}" target="_blank">
-              <div class="apptitle">{{ lab.title }}</div>
-            </a>
+            <div class="shinyapp" style="text-align:left; margin-left:40px; margin-top:10px;margin-bottom:10px;">
+                <a href="{{ lab.url }}" target="_blank">
+                  <div class="apptitle">{{ lab.title }}</div>
+                </a>
           </div>
         {% endif %}
 	  {% endfor %}

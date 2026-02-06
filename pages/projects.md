@@ -26,22 +26,19 @@ ext-js:
           {% endif %}
 	  {% endfor %}
     </div>
-    <div id="shinyapps-big">
+    {% assign past_projects = site.data.projects | where: "status", "past" %}
+    {% if past_projects.size > 0 %}
     <hr>
       <h3 style="text-align:left; margin:40px">Past Projects</h3>
-      <ul>
-        {% for project in site.data.projects %}
+        {% for project in past_projects %}
           {% if project.status == "past"%}
-          <div class="shinyapp" style="text-align:left; margin-left:20px; margin-top:10px;">
-              <li>
+          <div class="shinyapp" style="text-align:left; margin-left:40px; margin-top:10px;">
                 <a href="{{ project.url }}" target="_blank">
                   <div class="apptitle">{{ project.title }}</div>
                 </a>
-              </li>
           </div>
           {% endif %}
         {% endfor %}
-      </ul>
-    </div>
+    {% endif %}
   </div>
 </div>
