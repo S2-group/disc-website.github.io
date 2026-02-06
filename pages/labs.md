@@ -15,6 +15,7 @@ ext-js:
   <div id="portfolio">
     <div id="shinyapps-big"> 
       {% for lab in site.data.labs %}
+       {% if lab.status == "current"%}
 	    <div class="shinyapp" style="background-color:#e6ffe7; margin-top:10px; ">
           <a class="applink" href="{{ lab.url }}" target="_blank">
             <img src="{{ site.url }}/assets/img/lab-screenshots/{{ lab.img }}" alt="" />
@@ -24,6 +25,19 @@ ext-js:
             <div class="appdesc">{{ lab.contact }}</div>
           </a>
         </div>
+        {% endif %}
+	  {% endfor %}
+    </div>
+    <div id="shinyapps-big"> 
+    <h3 style="text-align:left; margin:20px; padding-top:10px;">Past Labs</h3>
+      {% for lab in site.data.labs %}
+        {% if lab.status == "past"%}
+          <div class="shinyapp" style="margin-top:10px; ">
+            <a class="applink" href="{{ lab.url }}" target="_blank">
+              <div class="apptitle">{{ lab.title }}</div>
+            </a>
+          </div>
+        {% endif %}
 	  {% endfor %}
     </div>
   </div>

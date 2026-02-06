@@ -14,7 +14,6 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div id="shinyapps-big">
-    <h3 style="text-align:left; margin:40px">Ongoing Projects</h3>
        {% for project in site.data.projects %}
         {% if project.status == "current"%}
         <div class="shinyapp">
@@ -33,11 +32,13 @@ ext-js:
       <ul>
         {% for project in site.data.projects %}
           {% if project.status == "past"%}
-          <div style="text-align:left; margin-left:40px">
-                  <li><a href="{{ project.url }}" target="_blank">
-                <div class="apptitle">{{ project.title }}</div>
-              </a></li>
-            </div>
+          <div class="shinyapp" style="text-align:left; margin-left:20px; margin-top:10px;">
+              <li>
+                <a href="{{ project.url }}" target="_blank">
+                  <div class="apptitle">{{ project.title }}</div>
+                </a>
+              </li>
+          </div>
           {% endif %}
         {% endfor %}
       </ul>
