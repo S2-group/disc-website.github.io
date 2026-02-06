@@ -2,39 +2,49 @@
   description: Digital transformation in the energy sector within the Horizon Europe programme
   img: hedge-iot.jpg
   url: https://hedgeiot.eu/
+  status: current
 - title: Sustainable Cloud
   description: Sustainability-aware architecting for the future cloud
   img: sustainablecloud.png
   url: https://s2group.cs.vu.nl/sustainablecloud/
+  status: current
 - title: "ASI Seed Money: Sustainable Cloud Software for Built Environments"
   description: We developed an archive populated with tactics for a sustainable cloud for the built environment.
   img: cloud-tactics.jpg
   url: https://vu.nl/en/news/2022/asi-seed-money-sustainable-cloud-software-for-built-environments
+  status: current
 - title: An Archive of Awesome and Dark Tactics (AADT)
   description: This is an archive that captures reusable (software and not only) tactics, open for everybody to learn and contribute. It is an initiative of the VU Digital Sustainability Center and the S2 Research Group.
   img: AADT.png
   url: https://s2group.cs.vu.nl/AwesomeAndDarkTactics/
+  status: current
 - title: Towards a common research agenda on the socio-technical aspects of net-zero, sustainable data centers
   description: This is an inter-disciplinary collaboration between researchers of Vrije Universiteit Amsterdam and University of Twente
   img: responsible-societies.jpeg
   url: https://www.utwente.nl/en/et/news/2021/6/1097504/kick-off-joint-research-program-ut-and-vu-creating-responsible-societies
+  status: current
 - title: Interconnect
   description: Interconnect (Horizon2020) aims to achieve a relevant milestone in the democratization of efficient energy management, through a flexible and interoperable ecosystem.
   img: interconnectproject.png
   url: https://interconnectproject.eu/
+  status: current
 - title: GraphMassivizer
   description: GraphMassivizer (Horizon2020) aims at supporting extreme and sustainable graph processing for urgent societal challenges in Europe using serverless Cloud computing.
   img: graphmassivizer.jpeg
   url:
+  status: current
 - title: CloudStars
   description: CloudStars provides the best cost, performance, and energy tradeoffs in Cloud Computing infrastructures.
   img:
   url:
+  status: current
 - title: ExtremeXP
   description: ExtremeXP (Horizon Europe) aims to provide accurate, energy-efficient, fit-for-purpose, and trustworthy data-driven insights via evaluating different complex analytics variants, considering end users’ preferences and feedback in an automated way.
   img: extremexp.png
   url: https://extremexp.eu/
+  status: current
 - title: A New Cloud for a Sustainable Digital Society
   description: This project researches the sustainability of cloud computing, by identifying the related social, technical and environmental risks and benefits, and complementing them with examples of possible countermeasures. It is funded by the Network Insitute of the VU as an Academy Project for 2022.
   img: sustainable_digital_society.png
   url: https://networkinstitute.org/projects/a-new-cloud-for-a-sustainable-digital-society/
+  status: current
