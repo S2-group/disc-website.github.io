@@ -34,7 +34,7 @@ We aim for a very interactive format with many questions from the audience
 
 **When and where?** 
 
-This event will take place on **Wednesday, March 25th, from 16:00 to 17:30 in the NU building (room NU-3A65).**  Afterward, there will be a borrel with drinks and snacks until roughly 19:00. 
+This event will take place on **Wednesday, March 25th, from 16:00 to 17:30 in the NU building, Vrije Universiteit Amsterdam.** There will be a borrel with drinks and snacks until roughly 19:00. Further details will be communicated upon registration.
 
 **Program** 
 
