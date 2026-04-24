@@ -30,15 +30,19 @@ ext-js:
     {% if past_projects.size > 0 %}
     <hr>
       <h3 style="text-align:left; margin:40px">Past Projects</h3>
+	  <div id="shinyapps-big">
         {% for project in past_projects %}
           {% if project.status == "past"%}
-          <div class="shinyapp" style="text-align:left; margin-left:40px; margin-top:10px;">
-                <a href="{{ project.url }}" target="_blank">
-                  <div class="apptitle">{{ project.title }}</div>
-                </a>
+          <div class="shinyapp">
+            <a class="applink" href="{{ project.url }}" target="_blank">
+              <img class="appimg" src="{{ site.url }}/assets/img/project-screenshots/{{ project.img }}" alt="" />
+              <div class="apptitle">{{ project.title }}</div>
+              <div class="appdesc">{{ project.description }}</div>
+            </a>
           </div>
           {% endif %}
         {% endfor %}
+		</div>
     {% endif %}
   </div>
 </div>
