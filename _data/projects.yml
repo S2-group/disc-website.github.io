@@ -1,7 +1,12 @@
 - title: Phoenix - Energy-aware Data Management from Practice to Research
-  description: Science relies on knowledge, knowledge relies on data. However, not all data is necessary, nor is it always managed efficiently or effectively. This is witnessed by the rapid growth of energy use in data centres with unsustainable socio-environmental effects. Industry has started creating and adopting energy-aware data management tactics. Science must do the same.To this aim, we build upon the methods and results emerged from the pragmatism of industrial practice and the rigour of academic research. We create an integrated `modeling-and-measurement’ method coming from both worlds, with energy-aware tactics learned in industry, and adapted and measured in academic research. [See the announcement here.]
+  description: Science relies on knowledge, knowledge relies on data. However, not all data is necessary, nor is it always managed efficiently or effectively. This is witnessed by the rapid growth of energy use in data centres with unsustainable socio-environmental effects. Industry has started creating and adopting energy-aware data management tactics. Science must do the same.To this aim, we build upon the methods and results emerged from the pragmatism of industrial practice and the rigour of academic research. We create an integrated 'modeling-and-measurement' method coming from both worlds, with energy-aware tactics learned in industry, and adapted and measured in academic research.
   img: phoenix.jpg
   url: https://s2group.cs.vu.nl/2026-05-21-phoenix-project-awarded-funding/
+  status: current
+- title: GAT4ML - Reducing the Environmental Impact of ML-Enabled Systems via Green Architectural Tactics
+  description: To combat the increased energy demand of systems using machine learning (ML), especially modern ones based on large language models (LLMs), we take a holistic software architecture perspective to synthesize reusable software design guidance to improve environmental sustainability via green architectural tactics. We will provide a holistic collection of effective green tactics, a tool-supported methodology to guide the continuous synthesis of tactics for researchers, a tool-supported methodology to allow efficient tactic browsing and selection for practitioners, empirical evidence for the effectiveness and trade-offs for tactics, and guidelines for applying and implementing the tactics in real-world industry settings, including prototypical sample implementations.
+  img: no_image.jpg
+  url: https://www.nwo.nl/en/projects/xzsqr74294
   status: current
 - title: HEDGE-IoT
   description: Digital transformation in the energy sector within the Horizon Europe programme
@@ -40,7 +45,7 @@
   status: past
 - title: CloudStars
   description: CloudStars provides the best cost, performance, and energy tradeoffs in Cloud Computing infrastructures.
-  img:
+  img: no_image.jpg
   url:
   status: current
 - title: ExtremeXP
