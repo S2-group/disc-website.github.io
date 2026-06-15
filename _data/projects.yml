@@ -1,7 +1,7 @@
-- title: Phoenix
-  description: Energy-aware Data Management from Practice to Research
+- title: Phoenix - Energy-aware Data Management from Practice to Research
+  description: Science relies on knowledge, knowledge relies on data. However, not all data is necessary, nor is it always managed efficiently or effectively. This is witnessed by the rapid growth of energy use in data centres with unsustainable socio-environmental effects. Industry has started creating and adopting energy-aware data management tactics. Science must do the same.To this aim, we build upon the methods and results emerged from the pragmatism of industrial practice and the rigour of academic research. We create an integrated `modeling-and-measurement’ method coming from both worlds, with energy-aware tactics learned in industry, and adapted and measured in academic research.
   img: phoenix.jpg
-  url: https://hetkin.nl/en/funding-awarded-to-40-projects-from-calls-under-the-science-in-transition-programme
+  url: https://s2group.cs.vu.nl/2026-05-21-phoenix-project-awarded-funding/
   status: current
 - title: HEDGE-IoT
   description: Digital transformation in the energy sector within the Horizon Europe programme
