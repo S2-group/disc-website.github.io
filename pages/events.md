@@ -18,15 +18,17 @@ title: Events
             list-style: none;
               gap: 1px; /* Add space between items */
             scroll-behavior: smooth; /* Smooth scrolling */
-            padding-left: 15px; /* Space for the scroll buttons */
-            padding-right: 15px; /* Space for the scroll buttons */
+            padding-left: 20px; /* Space for the scroll buttons */
+            padding-right: 20px; /* Space for the scroll buttons */
+            margin-left: 10px;
+            margin-right: 10px;
 
         }
         .post {
             position: relative; /* Allow absolute positioning of title */
             border: 1px solid #ccc;
             /* border-radius: 5px; */
-            min-width: 250px; /* Minimum width for each post */
+            min-width: 200px; /* Minimum width for each post */
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             overflow: hidden; /* Prevent overflow */
             transition: transform 0.3s;
@@ -36,7 +38,7 @@ title: Events
             transform: translateY(-2px);
         }
         .post img {
-            width: 100%;
+            width: 200px;
             height: 100%; /* Set height to 100% to fill the container */
             object-fit: cover; /* Ensure the image covers the space */
         }
@@ -48,7 +50,7 @@ title: Events
             color: white;
             text-align: top;
             text-decoration: none; 
-            font-size: x-large;
+            font-size: large;
             padding: 5px 10px;
         }
         .cocktail-post-title{
@@ -74,7 +76,7 @@ title: Events
         }
         .scroll-button {
             position: absolute;
-            top: 50%; /* Center vertically */
+            top: 55%; /* Center vertically */
             /* background-color: rgba(0, 110, 185, 0.5); */
             background-color: rgba(255, 255, 255, 0);
             color: black;
