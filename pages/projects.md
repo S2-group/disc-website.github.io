@@ -42,6 +42,7 @@ document.addEventListener("click", function (e) {
         <div class="shinyapp">
             <a class="" href="{{ project.url }}" target="_blank">
               <img class="appimg" src="{{ site.url }}/assets/img/project-screenshots/{{ project.img }}" href="{{ project.url }}" />
+			  <div class="apptitle">{{ lab.title }}</div>
             </a>
             <div class="appdesc">
             <p class="preview">{{ project.description | truncate: 100, "..."}}</p>
@@ -64,6 +65,7 @@ document.addEventListener("click", function (e) {
           <div class="shinyapp">
             <a class="" href="{{ project.url }}" target="_blank">
               <img class="appimg" src="{{ site.url }}/assets/img/project-screenshots/{{ project.img }}" href="{{ project.url }}" />
+			  <div class="apptitle">{{ lab.title }}</div>
             </a>
             <div class="appdesc">
             <p class="preview">{{project.description | truncate: 50, "..."}}</p>
